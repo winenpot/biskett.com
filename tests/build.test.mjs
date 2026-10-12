@@ -78,3 +78,58 @@ test('missing i18n key fails the build loudly', () => {
   const { src, out } = fixture({ ...files, 'layouts/base.html': base + '{{t.nope}}' });
   assert.throws(() => build({ srcDir: src, outDir: out }), /t\.nope/);
 });
+
+const withCovers = {
+  ...files,
+  'blog/en/new.md': '---\ntitle: New\ndate: 2026-03-01\ncover: /assets/img/n.webp\nexcerpt: Short & sweet\n---\nbody',
+  'blog/en/mid.md': '---\ntitle: Mid\ndate: 2026-02-01\n---\nbody',
+  'blog/en/a.md': '---\ntitle: A\ndate: 2026-01-15\n---\nbody',
+  'pages/en/index.html': '---\ntitle: Home\n---\n<h1>Hi</h1><!--latest-posts-->',
+};
+
+test('blog index renders cards with cover and excerpt', () => {
+  const { src, out } = fixture(withCovers); build({ srcDir: src, outDir: out });
+  const idx = fs.readFileSync(path.join(out, 'blog/index.html'), 'utf8');
+  assert.match(idx, /<img src="\/assets\/img\/n\.webp"/);
+  assert.match(idx, /Short &amp; sweet/);
+});
+
+test('<!--latest-posts--> is replaced with the 3 newest posts', () => {
+  const { src, out } = fixture(withCovers); build({ srcDir: src, outDir: out });
+  const home = fs.readFileSync(path.join(out, 'index.html'), 'utf8');
+  assert.doesNotMatch(home, /latest-posts/);
+  assert.ok(home.includes('/blog/new/') && home.includes('/blog/mid/') && home.includes('/blog/a/'));
+  assert.ok(!home.includes('/blog/old/'));
+});
+
+test('head context carries absolute canonical and og image URLs', () => {
+  const { src, out } = fixture({ ...files, 'layouts/base.html': '{{canonicalUrl}}|{{ogImage}}|{{{content}}}{{t.switch}}{{altHref}}{{title}}{{lang}}{{dir}}' });
+  build({ srcDir: src, outDir: out, siteUrl: 'https://example.test' });
+  assert.match(fs.readFileSync(path.join(out, 'about/index.html'), 'utf8'), /^https:\/\/example\.test\/about\/\|https:\/\/example\.test\/assets\/img\/og\.jpg\|/);
+});
+
+test('sitemap.xml lists pages (not 404) and robots.txt points at it', () => {
+  const { src, out } = fixture({ ...files, 'pages/en/404.html': '---\ntitle: 404\n---\nnope' });
+  build({ srcDir: src, outDir: out, siteUrl: 'https://example.test' });
+  const sm = fs.readFileSync(path.join(out, 'sitemap.xml'), 'utf8');
+  assert.match(sm, /<loc>https:\/\/example\.test\/<\/loc>/);
+  assert.match(sm, /<loc>https:\/\/example\.test\/fa\/<\/loc>/);
+  assert.match(sm, /<loc>https:\/\/example\.test\/blog\/new\/<\/loc>/);
+  assert.doesNotMatch(sm, /404/);
+  assert.match(fs.readFileSync(path.join(out, 'robots.txt'), 'utf8'), /Sitemap: https:\/\/example\.test\/sitemap\.xml/);
+});
+
+test('src/public/* is copied to the site root', () => {
+  const { src, out } = fixture({ ...files, 'public/favicon.png': 'x' });
+  build({ srcDir: src, outDir: out });
+  assert.ok(fs.existsSync(path.join(out, 'favicon.png')));
+});
+
+test('markdown: blockquote', () => {
+  assert.match(renderMarkdown('> **Note.** hi\n> more\n\nafter'), /<blockquote><p><strong>Note\.<\/strong> hi more<\/p><\/blockquote>\s*<p>after<\/p>/);
+});
+
+test('post page shows the cover image', () => {
+  const { src, out } = fixture(withCovers); build({ srcDir: src, outDir: out });
+  assert.match(fs.readFileSync(path.join(out, 'blog/new/index.html'), 'utf8'), /<article class="post">.*<img src="\/assets\/img\/n\.webp"/s);
+});

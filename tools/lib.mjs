@@ -44,16 +44,19 @@ export function renderMarkdown(md) {
   const out = [];
   let para = [];
   let list = [];
+  let quote = [];
   const flush = () => {
     if (para.length) { out.push(`<p>${inline(para.join(' '))}</p>`); para = []; }
+    if (quote.length) { out.push(`<blockquote><p>${inline(quote.join(' '))}</p></blockquote>`); quote = []; }
     if (list.length) { out.push(`<ul>${list.map(i => `<li>${inline(i)}</li>`).join('')}</ul>`); list = []; }
   };
   for (const line of md.split(/\r?\n/)) {
     let m;
     if (!line.trim()) flush();
     else if ((m = /^(#{1,3})\s+(.*)$/.exec(line))) { flush(); out.push(`<h${m[1].length}>${inline(m[2])}</h${m[1].length}>`); }
-    else if ((m = /^[-*]\s+(.*)$/.exec(line))) { if (para.length) flush(); list.push(m[1]); }
-    else { if (list.length) flush(); para.push(line.trim()); }
+    else if ((m = /^>\s?(.*)$/.exec(line))) { if (para.length || list.length) flush(); quote.push(m[1]); }
+    else if ((m = /^[-*]\s+(.*)$/.exec(line))) { if (para.length || quote.length) flush(); list.push(m[1]); }
+    else { if (list.length || quote.length) flush(); para.push(line.trim()); }
   }
   flush();
   return out.join('\n');

@@ -1,0 +1,24 @@
+---
+title: Contact us
+description: Get in touch with the Biskett team — questions, feedback or business enquiries.
+---
+<section class="wrap center page-head">
+  <h1>contact us</h1>
+  <p class="lead">We’re here to answer your questions.</p>
+</section>
+<section class="wrap contact-page">
+  <form class="stack-form" action="/api/forms" method="post">
+    <input type="hidden" name="form" value="contact">
+    <label>Name <input name="name" required autocomplete="name"></label>
+    <label>Email <input name="email" type="email" required autocomplete="email"></label>
+    <label>Phone <input name="phone" type="tel" autocomplete="tel"></label>
+    <label>Message <textarea name="message" rows="6" required></textarea></label>
+    <input class="hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <button class="btn" type="submit">Send</button>
+  </form>
+  <dl class="contact-details">
+    <div><dt>PHONE</dt><dd><a href="tel:+982191004664">(+98) 21 91004664</a></dd></div>
+    <div><dt>ADDRESS</dt><dd>No. 30, Golzar Alley, Golshan St., Khorramshahr St, North Sohravardi, Tehran, Iran</dd></div>
+    <div><dt>EMAIL ID</dt><dd><a href="mailto:info@atpg.co">info@atpg.co</a></dd></div>
+  </dl>
+</section>

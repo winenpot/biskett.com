@@ -29,5 +29,13 @@ services:
       driver: json-file
       options: { max-size: "10m", max-file: "3" }
 
+networks:
+  default:
+    # Explicit subnet: atpg's Docker default address pools are exhausted (33 networks), so
+    # an auto-assigned network fails. 10.x is unused on that host.
+    ipam:
+      config:
+        - subnet: 10.200.94.0/24
+
 volumes:
   data:

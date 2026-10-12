@@ -165,6 +165,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      nodemailer:
+        specifier: ^10.1.0
+        version: 10.1.0
     devDependencies:
       '@fontsource/fredoka':
         specifier: ^5.3.0
@@ -194,6 +198,10 @@ packages:
     resolution: {integrity: sha512-X+FpfU0yTEtc6aTHS7VwbOpvQwRt70+pXXWRI5fd6CvWhe7pSVC854TVo4Zo0x5/wwcWj+/9KUlXpdcP0dY9AA==}
     hasBin: true
 
+  nodemailer@10.1.0:
+    resolution: {integrity: sha512-fXW8AulB25aOTuwfRYV6lqHyfz2VM4rr4SGXH03mE7x5znEUpzL5mu6anARUpZN7744Ziwkmr4AxSLPJsBQspg==}
+    engines: {node: '>=20.0.0'}
+
 snapshots:
 
   '@fontsource/fredoka@5.3.0': {}
@@ -203,3 +211,5 @@ snapshots:
   '@fontsource/vazirmatn@5.3.0': {}
 
   kiwi-schema@0.5.0: {}
+
+  nodemailer@10.1.0: {}

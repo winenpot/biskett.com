@@ -17,6 +17,9 @@
     "build": "node tools/build.mjs",
     "start": "node server.js",
     "test": "node --test tests/",
-    "check": "node --check tools/lib.mjs && node --check tools/build.mjs && node --check tools/build-images.mjs && node --check tools/fig-dump.mjs && node --check tools/outline.mjs && node --check server.js && node --check lib/forms.mjs"
+    "check": "node --check tools/lib.mjs && node --check tools/build.mjs && node --check tools/build-images.mjs && node --check tools/fig-dump.mjs && node --check tools/outline.mjs && node --check server.js && node --check lib/forms.mjs && node --check lib/config.mjs && node --check lib/mail.mjs"
+  },
+  "dependencies": {
+    "nodemailer": "^10.1.0"
   }
 }

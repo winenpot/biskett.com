@@ -1,0 +1,13 @@
+{
+  "mail": {
+    "enabled": false,
+    "to": ["info@biskett.com"],
+    "from": "Biskett Website <no-reply@biskett.com>",
+    "subjectPrefix": "[biskett.com]",
+    "smtp": { "host": "smtp.example.com", "port": 587, "secure": false, "user": "no-reply@biskett.com" }
+  },
+  "forms": {
+    "contact": { "required": ["name", "email", "message"] },
+    "partnership": { "required": ["company", "country", "name", "email"] }
+  }
+}

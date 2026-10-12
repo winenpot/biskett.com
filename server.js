@@ -6,6 +6,8 @@ import zlib from 'node:zlib';
 import { fileURLToPath } from 'node:url';
 import { DatabaseSync } from 'node:sqlite';
 import { defaultForms, validate } from './lib/forms.mjs';
+import { loadConfig } from './lib/config.mjs';
+import { createMailer } from './lib/mail.mjs';
 
 // Serves the built biskett-site/ folder and handles the two things a static site cannot:
 // form submissions (SQLite) and a health check. Node built-ins only, same shape as the
@@ -37,7 +39,7 @@ export async function createApp({
   adminToken = process.env.BISKETT_ADMIN_TOKEN,
   trustProxy = process.env.BISKETT_TRUST_PROXY === '1', // only behind a proxy that sets X-Forwarded-For
   forms = defaultForms,
-  onSubmission, // (row) => void | Promise; T8 hooks email in here
+  onSubmission, // async (row) => { sent?: boolean }; the mailer. Errors land in mail_error.
   rateLimitPerMinute = 5,
 } = {}) {
   root = path.resolve(root);
@@ -51,6 +53,8 @@ CREATE TABLE IF NOT EXISTS submissions (
   created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
 );`);
   const insert = db.prepare('INSERT INTO submissions (form,lang,page,fields) VALUES (?,?,?,?)');
+  const markMailed = db.prepare('UPDATE submissions SET mailed_at = CURRENT_TIMESTAMP, mail_error = NULL WHERE id = ?');
+  const markMailError = db.prepare('UPDATE submissions SET mail_error = ? WHERE id = ?');
   const attempts = new Map();
 
   const send = (req, res, status, body, type = 'text/plain; charset=utf-8', headers = {}) => {
@@ -197,7 +201,12 @@ CREATE TABLE IF NOT EXISTS submissions (
         const info = insert.run(payload.form, payload.lang, payload.page || (req.headers.referer || '').slice(0, 1000), JSON.stringify(payload.fields));
         const row = { id: Number(info.lastInsertRowid), ...payload };
         // Fire-and-forget: a failing hook must never lose the stored row or fail the response.
-        Promise.resolve().then(() => onSubmission?.(row)).catch(e => console.error('onSubmission failed:', e));
+        Promise.resolve().then(() => onSubmission?.(row))
+          .then(result => { if (result?.sent) markMailed.run(row.id); })
+          .catch(e => {
+            console.error('onSubmission failed:', e);
+            try { markMailError.run(String(e?.message || e).slice(0, 500), row.id); } catch { /* db closed */ }
+          });
         return reply(200, { ok: true, message: payload.lang === 'fa' ? 'ممنون! پیام شما دریافت شد.' : 'Thank you. Your message has been received.' });
       }
       if (req.method === 'GET' || req.method === 'HEAD') return serveFile(req, res, pathname);
@@ -216,7 +225,9 @@ CREATE TABLE IF NOT EXISTS submissions (
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const port = Number(process.env.PORT || 8080);
   const host = process.env.HOST || '0.0.0.0';
-  const app = await createApp();
+  const config = loadConfig();
+  const app = await createApp({ forms: config.forms, onSubmission: createMailer(config) });
+  console.log(`mail: ${config.mail.enabled ? `on -> ${config.mail.to.join(', ')}` : 'off (SQLite only)'}`);
   app.server.listen(port, host, () => console.log(`Biskett: http://${host}:${port}`));
   // A container stop sends SIGTERM: drain requests, then close SQLite so WAL is checkpointed.
   let closing = false;

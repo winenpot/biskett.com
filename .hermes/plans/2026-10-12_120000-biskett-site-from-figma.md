@@ -1,6 +1,6 @@
 # Biskett.com Implementation Plan
 
-Progress: [x] T0  [x] T1  [x] T2  [x] T3  [x] T4  [x] T5  [x] T6  [x] T7  [ ] T8  [ ] T9  [ ] T10  [ ] T11
+Progress: [x] T0  [x] T1  [x] T2  [x] T3  [x] T4  [x] T5  [x] T6  [x] T7  [x] T8  [ ] T9  [ ] T10  [ ] T11
 
 Goal: Ship biskett.com as a small brand site (Home, About, Contact, Blog; English +
 Persian) built from the Figma export. Contact-form submissions are stored in SQLite
@@ -121,6 +121,20 @@ AND emailed. Deploy it the same way as kixmax.co / torshx.com on the atpg server
   rate limit, no-JS post, token 401, hook failure). Real-browser check: FA contact form
   stored a row and showed the Persian success message.
 - Not tested: HTML5 validation messages are the browser's own (not localised by us).
+
+## T8 findings (2026-10-12)
+
+- `lib/config.mjs` (defaults + validation, one error listing every problem; missing file =
+  defaults), `lib/mail.mjs` (nodemailer; transport injectable), `biskett.config.json`
+  (shipped with `mail.enabled: false`). `server.js` CLI wires config -> mailer ->
+  `onSubmission`; a successful send sets `mailed_at`, a failure sets `mail_error`.
+- Header-injection check: CR/LF stripped from subject and Reply-To.
+- 39 tests pass. Also checked nodemailer against a throw-away raw SMTP sink (real wire
+  path, UTF-8 subject) - fine. NOT checked: a real SMTP account / TLS / auth. Still needs
+  the user's account (open Q1); mail stays OFF until then.
+- Config recipients are the plan default info@biskett.com (unconfirmed).
+- pnpm could not complete its package-threat-intel lookup for nodemailer (inconclusive, not
+  a finding).
 
 ## Context (sibling repos)
 

@@ -1,6 +1,6 @@
 # Biskett.com Implementation Plan
 
-Progress: [x] T0  [x] T1  [x] T2  [x] T3  [x] T4  [x] T5  [x] T6  [x] T7  [x] T8  [ ] T9  [ ] T10  [ ] T11
+Progress: [x] T0  [x] T1  [x] T2  [x] T3  [x] T4  [x] T5  [x] T6  [x] T7  [x] T8  [x] T9  [x] T10  [x] T11
 
 Goal: Ship biskett.com as a small brand site (Home, About, Contact, Blog; English +
 Persian) built from the Figma export. Contact-form submissions are stored in SQLite
@@ -135,6 +135,14 @@ AND emailed. Deploy it the same way as kixmax.co / torshx.com on the atpg server
 - Config recipients are the plan default info@biskett.com (unconfirmed).
 - pnpm could not complete its package-threat-intel lookup for nodemailer (inconclusive, not
   a finding).
+
+## T9-T11 findings (2026-10-12)
+
+- Container verified locally (healthy, form stored), then deployed to atpg :8094; checked
+  from outside (200s, 404, 401 without token). Fixes: no corepack in node:26 (npm installs
+  pnpm), pinned compose subnet (address pools exhausted on atpg).
+- Not done: HTTPS/DNS (#2), Products/Recipes (#3), contact email (#4), SMTP (#1),
+  Lighthouse. See docs/TODO.md. Docs + skills + vault row updated.
 
 ## Context (sibling repos)
 

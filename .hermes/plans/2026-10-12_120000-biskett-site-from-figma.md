@@ -1,6 +1,6 @@
 # Biskett.com Implementation Plan
 
-Progress: [~] T0  [ ] T1  [ ] T2  [ ] T3  [ ] T4  [ ] T5  [ ] T6  [ ] T7  [ ] T8  [ ] T9  [ ] T10  [ ] T11
+Progress: [x] T0  [x] T1  [ ] T2  [ ] T3  [ ] T4  [ ] T5  [ ] T6  [ ] T7  [ ] T8  [ ] T9  [ ] T10  [ ] T11
 
 Goal: Ship biskett.com as a small brand site (Home, About, Contact, Blog; English +
 Persian) built from the Figma export. Contact-form submissions are stored in SQLite
@@ -13,6 +13,23 @@ AND emailed. Deploy it the same way as kixmax.co / torshx.com on the atpg server
 - Pages: home, about, contact, blog index + posts. The Figma file only draws the home
   page. About, contact and blog reuse its header, footer, type and colours.
 - Form submissions: SQLite + email, set up through a config file.
+
+## T1 findings (2026-10-12, canvas.fig decoded OK)
+
+- Decoder: `tools/fig-dump.mjs` (kiwi-schema; chunk 1 = deflate-raw schema, chunk 2 = zstd
+  via node:zlib). Output `figma/design.json`, `figma/texts.txt`. 6710 nodes, 132 images
+  referenced, 0 missing on disk.
+- The design is bigger than the thumbnail suggested. Figma pages: HOME, ABOUT US,
+  PRODUCTS, PRODUCTS DETAILS (6 products: Classic 200g/100g, Biskett cookie, Sandwich
+  Cookies, 3kg Cream, 400g Cream), RECIPES (recipes, ingredients, steps). Each page has
+  EN (1728 wide), FA (RTL) and MOBILE (440 wide) frames.
+- Contact and Blog exist only as sections inside HOME (business-partnership form
+  "answered within 48 hours", "biskett blog" teaser), not as separate pages.
+- Fonts: Notably Absent, Jost, Myriad Pro, Inter, Montserrat; Persian = Kalameh /
+  KalamehFaNum (commercial font, NOT OFL: licence needed before self-hosting, else
+  fallback Vazirmatn). Brand colours: red #dc0b1e, dark #1e1e1e, grey #868686, white.
+- Scope impact: user said "home, about, contact, blog will suffice"; the design also has
+  Products, Product details and Recipes. Needs a user decision before T4 (see open Q4).
 
 ## Context (sibling repos)
 
@@ -195,6 +212,10 @@ AND emailed. Deploy it the same way as kixmax.co / torshx.com on the atpg server
    torshx today (Cloudflare in front of the 0.0.0.0 ports?), and who controls the
    biskett.com DNS? (T10)
 3. About and blog copy: will you supply it, or should I write placeholder copy? (T5)
+
+4. Scope: Figma also designs Products, 6 product detail pages and Recipes. Include them
+   (recommended, design exists) or stick to home/about/contact/blog? (before T4)
+5. Persian font: do you hold a Kalameh licence (the Figma font), or use Vazirmatn? (T2)
 
 ## Risks
 - Decoding canvas.fig is unofficial; the layout is rebuilt by hand, not exported.

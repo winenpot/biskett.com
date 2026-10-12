@@ -1,0 +1,1320 @@
+Screens > Group 1 > BISKETT aftab talae-DESIGN :: BISKETT\naftab talae-DESIGN
+root > Internal Only Canvas > www.oreo.com/Semantic/Heading 1 upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Link upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Heading 2 upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Link upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Segoe UI/Regular upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Button upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Inter/Black upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Heading 2 upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Heading 2 upper :: Ag
+Container > Container > White Fudge :: White Fudge
+Container > Container > White Fudge :: White Fudge
+Container > Container > White Fudge :: White Fudge
+Container > Container > White Fudge :: White Fudge
+Container > Container > Milk Chocolate Fudge :: Milk Chocolate Fudge
+Container > Container > Milk Chocolate Fudge :: Milk Chocolate Fudge
+Container > Container > Milk Chocolate Fudge :: Milk Chocolate Fudge
+Container > Container > Milk Chocolate Fudge :: Milk Chocolate Fudge
+Container > Container > No Fudge :: No Fudge
+Container > Container > No Fudge :: No Fudge
+Container > Container > No Fudge :: No Fudge
+Container > Container > No Fudge :: No Fudge
+root > Internal Only Canvas > www.oreo.com/Inter/Black upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Heading 5 upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Heading 5 upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Heading 3 upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Heading 1 upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Segoe UI/Regular :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Heading 2 upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Inter/Medium :: Ag
+root > Internal Only Canvas > www.oreo.com/Inter/Black upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Inter/Black upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Inter/Black upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Inter/Black upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Inter/Black upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Inter/Black upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Inter/Black upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Inter/Black upper :: Ag
+Container > Heading 5 > OREO :: OREO
+Container > Heading 5 > Just the :: Just the
+Container > Heading 5 > Wafer :: Wafer
+Container > Heading 5 > OREO :: OREO
+Container > Heading 5 > Just the :: Just the
+Container > Heading 5 > Wafer :: Wafer
+Container > Heading 5 > OREO :: OREO
+Container > Heading 5 > Lavender :: Lavender
+Container > Heading 5 > OREO :: OREO
+Container > Heading 5 > Lavender :: Lavender
+Container > Heading 5 > OREO :: OREO
+Container > Heading 5 > Hot :: Hot
+Container > Heading 5 > Cocoa :: Cocoa
+Container > Heading 5 > OREO :: OREO
+Container > Heading 5 > Hot :: Hot
+Container > Heading 5 > Cocoa :: Cocoa
+Container > Heading 5 > OREO :: OREO
+Container > Heading 5 > Just the :: Just the
+Container > Heading 5 > Creme :: Creme
+Container > Heading 5 > OREO :: OREO
+Container > Heading 5 > Just the :: Just the
+Container > Heading 5 > Creme :: Creme
+Container > Heading 5 > OREO :: OREO
+Container > Heading 5 > Cinnamon :: Cinnamon
+Container > Heading 5 > Bun :: Bun
+Container > Heading 5 > OREO :: OREO
+Container > Heading 5 > Cinnamon :: Cinnamon
+Container > Heading 5 > Bun :: Bun
+Container > Heading 5 > OREO :: OREO
+Container > Heading 5 > S’mOREO :: S’mOREO
+Container > Heading 5 > OREO :: OREO
+Container > Heading 5 > S’mOREO :: S’mOREO
+root > Internal Only Canvas > www.oreo.com/Semantic/Heading 2 upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Heading 2 upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Segoe UI/Regular :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Link upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Heading 3 upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Segoe UI/Regular :: Ag
+root > Internal Only Canvas > www.oreo.com/Inter/Black upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Inter/Black upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Segoe UI/Black upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Inter/Black upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Heading 3 upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Heading 4 upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Link upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Button :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Button upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Link upper :: Ag
+root > Internal Only Canvas > www.oreo.com/Semantic/Button upper :: Ag
+List > Component 21 > home :: home
+List > Component 24 > about us :: about us
+List > Component 25 > products :: products
+Frame 1073714936 > Component 24 > store location :: store location
+Container > Frame 517 > EN :: EN
+Container > Container > Biskett's Headlines :: Biskett's Headlines
+Container > Margin > "Stay up to date with the latest news and updates from Biskett. From new product launches and exciting partnerships to our latest achievements and upcoming events, find all the important information here." :: "Stay up to date with the latest news and updates from Biskett. From new product launches and exciting partnerships to our latest achievements and upcoming events, find all the important information here."
+Margin > Container > Q1 2025 Performance :: Q1 2025 Performance
+Frame 1073714938 > Margin > Check out Biskett's first quarter performance with key insights on our growth and success. :: Check out Biskett's first quarter performance with key insights on our growth and success.
+Margin > Container > New International Partnerships :: New International Partnerships
+Frame 1073714940 > Margin > Biskett announces exciting new international partnerships to expand our global reach. :: Biskett announces exciting new international partnerships to expand our global reach.
+Margin > Container > New Store Openings :: New Store Openings
+Frame 1073714941 > Margin > Biskett is opening new stores, bringing our products closer to you. :: Biskett is opening new stores, bringing our products closer to you.
+Margin > Container > New Product Launches :: New Product Launches
+Frame 1073714942 > Margin > Biskett is launching new products with exciting flavors and innovations. :: Biskett is launching new products with exciting flavors and innovations.
+Container > Container > Our PRODUCTS :: Our PRODUCTS
+Container > Margin > Explore a selection of our brands :: Explore a selection of our brands
+Group 39 > Frame 2 > Letus :: Letus
+Group 39 > Frame 2 > Your go-to brand for ready-to-eat salad toppings and crunchy :: Your go-to brand for ready-to-eat salad toppings and crunchy
+Group 39 > Frame 2 > Letus :: Letus
+Group 39 > Frame 2 > Your go-to brand for ready-to-eat salad toppings and crunchy :: Your go-to brand for ready-to-eat salad toppings and crunchy
+Group 39 > Frame 2 > Letus :: Letus
+Group 39 > Frame 2 > Your go-to brand for ready-to-eat salad toppings and crunchy :: Your go-to brand for ready-to-eat salad toppings and crunchy
+Group 39 > Frame 2 > Letus :: Letus
+Group 39 > Frame 2 > Your go-to brand for ready-to-eat salad toppings and crunchy :: Your go-to brand for ready-to-eat salad toppings and crunchy
+Container > Container > Export Distribution Map :: Export Distribution Map
+Container > Margin > Our products are now available in over 20 countries, including Germany, Japan, Canada, the United Arab Emirates and Australia. :: Our products are now available in over 20 countries, \nincluding Germany, Japan, Canada, the United Arab Emirates and Australia.
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > export :: export
+Container > Heading 2 > Delight in Every Bite :: Delight in Every Bite
+Container > Container > Biskett is where warm caramel flavor meets a pleasant crunch.  Each bite is a brief pause — simple, memorable, and genuinely enjoyable :: Biskett is where warm caramel flavor meets a pleasant crunch.  Each bite is a brief pause — simple, memorable, and genuinely enjoyable
+Container > Heading 2 > A Crunch You’ll Love :: A Crunch You’ll Love
+Container > Container > Biskett’s appeal is no coincidence. Try it once, and it’s hard to let go. :: Biskett’s appeal is no coincidence. Try it once, and it’s hard to let go.
+Frame 1073714945 > Heading 2 > Biskett, for Every Moment :: Biskett, for Every Moment
+Frame 1073714945 > Container > With afternoon tea, a morning coffee, or whenever you’re in the mood for a light snack.  Biskett is made for those moments when you need a small, tasty pause. :: With afternoon tea, a morning coffee, or whenever you’re in the mood for a light snack.  Biskett is made for those moments when you need a small, tasty pause.
+Margin > Container > Export Distribution Map :: Export Distribution Map
+EXPORT MAP > Margin > Today, Biskett is enjoyed alongside tea and coffee by people in more than 20 countries,  a taste that started on a shelf and found its way around the world. :: Today, Biskett is enjoyed alongside tea and coffee by people in more than 20 countries,  a taste that started on a shelf and found its way around the world.
+Margin > Frame 1618873924 > Russia .Canada. Netherlands .Georgia. Mongolia Kazakhstan .Uzbekistan Turkmenistan .Dubai .Iraq Yemen .Oman .Kenya Libya .Australia .Afghanistan Bahrain :: Russia .Canada. Netherlands .Georgia. Mongolia Kazakhstan .UzbekistanTurkmenistan .Dubai .Iraq Yemen .Oman .Kenya Libya .Australia .Afghanistan Bahrain
+Container > Container > Biskett Products :: Biskett Products
+OUR PROSUCTS > Margin > A choice for every taste and every occasion. :: A choice for every taste and every occasion.
+Group 39 > Frame 2 > Biskett cookie :: Biskett\ncookie
+Group 39 > Frame 2 > Biskett is a cookie with a surprisingly crunchy bite and distinctive flavor. :: Biskett is a cookie with a surprisingly crunchy bite and distinctive flavor.
+Group 39 > Frame 2 > 400g Biskett Cream :: 400g Biskett Cream
+Group 39 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 39 > Frame 2 > Sandwich Cookies :: SandwichCookies
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Group 38 > Frame 2 > 3kg Biskett Cream :: 3kg Biskett Cream 
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Frame 1618873791 > Frame 1618873909 > What-are-you-working :: Company Name
+Website > Frame 1618873909 > What-are-you-working :: Country
+Frame 1618873791 > Website > * :: *
+Frame 1618873792 > Frame 1618873909 > What-are-you-working :: Contact Info Name
+Frame 1618873792 > Frame 1618873910 > What-are-you-working :: Estimated Order Volume
+Frame 1618873782 > Frame 1618873910 > What-are-you-working :: Estimated Order Volume
+Container > Heading 2 > Ready to Grow Your Business with Biskett? :: Ready to Grow Your Business with Biskett?
+Container > Container > Complete the business partnership form, and the Biskett sales team will contact you within 48 hours. :: Complete the business partnership form, and the Biskett sales team will contact you within 48 hours.
+CONTACT US > Margin > contact us :: contact us
+CONTACT US > Margin > We’re here to answer your questions. :: We’re here to answer your questions.
+Frame 1618873914 > Frame 1618873790 > PHONE :: PHONE
+Frame 1618873914 > Frame 1618873790 > +44-123-654-7890 :: (+98) 21 91004664
+Frame 1618873914 > Frame 1618873789 > ADDRESS :: ADDRESS
+Frame 1618873789 > Frame 1618873786 > 4074-Ebert-Summit-Su :: No. 30, Golzar Alley, Golshan St., Khorramshahr St,North Sohravardi, Tehran, Iran
+Frame 1618873914 > Frame 1618873788 > EMAIL ID :: EMAIL ID
+Frame 1618873914 > Frame 1618873788 > +44-123-654-7890 :: info@atpg.co
+BLOG > Margin > biskett blog :: biskett blog
+Container > Container > 4074-Ebert-Summit-Su :: Lorem ipsum dolor sit amet, consectetur
+Container > Container > 4074-Ebert-Summit-Su :: Lorem ipsum dolor sit amet, consectetur
+Container > Container > 4074-Ebert-Summit-Su :: Lorem ipsum dolor sit amet, consectetur
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+HOME.EN > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Container > Heading 2 > لذت در هر گاز :: لذت در هر گاز
+Container > Container > بیسکت جایی است که طعم گرمِ کاراملی با تردیِ دلنشین به هم می‌رسند. هر گاز، مکثی کوتاه اما ماندگار از لذت ناب. :: بیسکت جایی است که طعم گرمِ کاراملی با تردیِ دلنشین به هم می‌رسند. هر گاز، مکثی کوتاه اما ماندگار از لذت ناب.
+Container > Button > داستان بیسکت :: داستان بیسکت
+Container > Heading 2 > یه ترد دوست‌داشتی :: یه ترد دوست‌داشتی
+Container > Container > جذابیت بیسکت اتفاقی نیست. کافیه یک‌بار امتحانش کنی چون دیگه نمی‌تونی ازش دست بکشی! :: جذابیت بیسکت اتفاقی نیست. کافیه یک‌بار امتحانش کنی چون دیگه نمی‌تونی ازش دست بکشی!
+Container > Button > رسپی‌ها :: رسپی‌ها
+Container > Button > محصولات بیسکت :: محصولات بیسکت
+Frame 1073714945 > Heading 2 > بیسکت؛ همراهِ هر لحظه :: بیسکت؛ همراهِ هر لحظه
+Frame 1073714945 > Container > کنار چای عصرونه، قهوه‌ی صبح یا وقتی دلت یه میان‌وعده‌ی سبک می‌‌خواد. بیسکت برای  همون لحظه‌ایه که به یک مکثِ خوش‌مزه نیاز داری. :: کنار چای عصرونه، قهوه‌ی صبح یا وقتی دلت یه میان‌وعده‌ی سبک می‌‌خواد. بیسکت برای  همون لحظه‌ایه که به یک مکثِ خوش‌مزه نیاز داری.
+Container > Button > محصولات  بیسکت :: محصولات  بیسکت
+Margin > Container > فراتر از مرزها :: فراتر از مرزها
+EXPORT MAP > Margin > بیسکت امروز در بیش از ۲۰ کشور جهان کنار چای و قهوه‌ی افراد مختلف است؛ طعمی که از یک قفسه شروع شد و به دنیا رسید. :: بیسکت امروز در بیش از ۲۰ کشور جهان کنار چای و قهوه‌ی افراد مختلف است؛ طعمی که از یک قفسه شروع شد و به دنیا رسید.
+Margin > Frame 1618873924 > Russia .Canada. Netherlands .Georgia. Mongolia Kazakhstan .Uzbekistan Turkmenistan .Dubai .Iraq Yemen .Oman .Kenya Libya .Australia .Afghanistan Bahrain :: Russia .Canada. Netherlands .Georgia. Mongolia Kazakhstan .UzbekistanTurkmenistan .Dubai .Iraq Yemen .Oman .Kenya Libya .Australia .Afghanistan Bahrain
+Frame 1618873925 > Button > ارتباط با ما :: ارتباط با ما
+Group 50 > Germany > برزیل :: برزیل
+Group 50 > Russia > روسیه :: روسیه
+Group 50 > Australia > استرالیا :: استرالیا
+Group 50 > Canada > کانادا :: کانادا
+Group 50 > Kenya > کنیا :: کنیا
+Container > Container > محصولات بیسکت :: محصولات بیسکت
+OUR PROSUCTS > Margin > انتخابی برای هر سلیقه و هر موقعیت. :: انتخابی برای هر سلیقه و هر موقعیت.
+Group 39 > Frame 2 > بیسکِت کلاسیک :: بیسکِت کلاسیک
+Group 39 > Frame 2 > Biskett is a cookie with a surprisingly crunchy bite and distinctive flavor. :: Biskett is a cookie with a surprisingly crunchy bite and distinctive flavor.
+Frame 2 > Button > جزئیات محصول :: جزئیات محصول
+Group 39 > Frame 2 > کرم بیسکت ۴۰۰ گرمی :: کرم بیسکت ۴۰۰ گرمی
+Group 39 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Frame 2 > Button > جزئیات محصول :: جزئیات محصول
+Group 39 > Frame 2 > بیسکِت ساندویچی :: بیسکِت ساندویچی
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Frame 2 > Button > جزئیات محصول :: جزئیات محصول
+Group 38 > Frame 2 > کرم بیسکت 3 کیلو‌یی :: کرم بیسکت 3 کیلو‌یی
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Frame 2 > Button > جزئیات محصول :: جزئیات محصول
+Container > Heading 2 > آماده‌ی توسعه‌ی کسب‌وکارت با بیسکت هستی؟ :: آماده‌ی توسعه‌ی کسب‌وکارت با بیسکت هستی؟
+Container > Container > فرم همکاری تجاری را تکمیل کن تا تیم فروش بیسکت حداکثر طی ۴۸ ساعت باهات تماس بگیره. :: فرم همکاری تجاری را تکمیل کن تا تیم فروش بیسکت حداکثر طی ۴۸ ساعت باهات تماس بگیره.
+Frame 1618873791 > Frame 1618873909 > What-are-you-working :: Company Name
+Website > Frame 1618873909 > What-are-you-working :: Country
+Frame 1618873791 > Website > * :: *
+Frame 1618873792 > Frame 1618873909 > What-are-you-working :: Contact Info Name
+Frame 1618873792 > Frame 1618873910 > What-are-you-working :: Estimated Order Volume
+Frame 1618873782 > Frame 1618873910 > What-are-you-working :: Estimated Order Volume
+Frame 1618873782 > Button > ارسال :: ارسال
+CONTACT US > Margin > تماس با ما :: تماس با ما
+CONTACT US > Margin > ما اینجاییم تا پاسخگوی سوال‌های شما باشیم. :: ما اینجاییم تا پاسخگوی سوال‌های شما باشیم.
+Frame 1618873914 > Frame 1618873790 > شماره تماس :: شماره تماس
+Frame 1618873914 > Frame 1618873790 > +44-123-654-7890 :: (+98) 21 91004664
+Frame 1618873914 > Frame 1618873789 > آدرس :: آدرس
+Frame 1618873789 > Frame 1618873786 > 4074-Ebert-Summit-Su :: تهران، سهروردی شمالی، خیابان خرمشهر، خیابان گلشن، کوچه گلزار، پلاک ۳۰
+Frame 1618873914 > Frame 1618873788 > آدرس ایمل :: آدرس ایمل
+Frame 1618873914 > Frame 1618873788 > +44-123-654-7890 :: info@atpg.co
+BLOG > Margin > biskett blog :: biskett blog
+Container > Container > 4074-Ebert-Summit-Su :: Lorem ipsum dolor sit amet, consectetur
+Container > Container > 4074-Ebert-Summit-Su :: Lorem ipsum dolor sit amet, consectetur
+Container > Container > 4074-Ebert-Summit-Su :: Lorem ipsum dolor sit amet, consectetur
+Frame 1618873922 > Frame 1073714946 > خانه :: خانه
+Frame 1618873922 > Frame 1073714946 > درباره‌ی بیسکت :: درباره‌ی بیسکت
+Frame 1618873922 > Frame 1073714946 > محصولات :: محصولات
+Frame 1618873922 > Frame 1073714946 > ارتباط با ما :: ارتباط با ما
+Frame 1618873922 > Frame 1073714946 > رسپی ها :: رسپی ها
+HOME.FA > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Container > Heading 1 > Workshop Your Very Own Cookie :: Workshop Your\nVery Own Cookie
+Container > Container > Create Your Cookie :: Create Your Cookie
+Container > Container > Create Your Cookie :: Create Your Cookie
+Container > Container > Shop Ready Made :: Shop Ready Made
+Background > Container > Shop Ready Made :: Shop Ready Made
+Section > Heading 2 > READY-TO-SHIP :: READY-TO-SHIP
+Container > Link > OREOiD Holiday Cookie Tin – 12ct :: OREOiD Holiday Cookie Tin – 12ct
+Container > Container > $44.99 :: $44.99
+Container > Background > NEW! :: NEW!
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Container > Link > OREOiD Fudge-less Holiday Cookie Tin – 12ct :: OREOiD Fudge-less Holiday Cookie\nTin – 12ct
+Container > Container > $31.99 :: $31.99
+Container > Background > NEW! :: NEW!
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Container > Link > OREOiD Holiday Cookies Red Box - 12ct :: OREOiD Holiday Cookies Red Box -\n12ct
+Container > Container > $35.99 :: $35.99
+Container > Background > NEW! :: NEW!
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Container > Link > OREOiD Holidays Cookie Blue Box - 12ct :: OREOiD Holidays Cookie Blue Box -\n12ct
+Container > Container > $35.99 :: $35.99
+Container > Background > NEW! :: NEW!
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Container > Link > OREOiD Christmas Mail Cookie Box - 12ct :: OREOiD Christmas Mail Cookie Box\n- 12ct
+Container > Container > $35.99 :: $35.99
+Container > Background > NEW! :: NEW!
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Container > Link > OREOiD Happy Holidays Cookie Box - 12ct :: OREOiD Happy Holidays Cookie Box\n- 12ct
+Container > Container > $35.99 :: $35.99
+Container > Background > NEW! :: NEW!
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Container > Link > OREOiD Rudolph and Friends Cookie Box - 6ct :: OREOiD Rudolph and Friends\nCookie Box - 6ct
+Container > Container > $29.99 :: $29.99
+Container > Background > NEW! :: NEW!
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Container > Heading 2 - Design Your Own OREO Cookie > Design Your Own OREO Cookie :: Design Your Own\nOREO Cookie
+Link > Container > Start Creating :: Start Creating
+Container > Container > Start Creating :: Start Creating
+Container > Container > Browse Popular Designs :: Browse Popular\nDesigns
+Container > Container > Browse Popular Designs :: Browse Popular Designs
+Section → Section > Heading 2 > Take Your Pick :: Take Your Pick
+Margin > Container > Twist. :: Twist.
+Margin > Container > Lick. :: Lick.
+Margin > Container > Dunk. :: Dunk.
+Margin > Container > Twist. :: Twist.
+Margin > Container > Lick. :: Lick.
+Background > Heading 5 > Build Your :: Build Your
+Background > Heading 5 > Bundle and Save :: Bundle and Save
+Background > Heading 5 > Ready-to-gift Boxes :: Ready-to-gift\nBoxes
+Background > Heading 5 > OREO Merch :: OREO Merch
+Container > Link > OREOiD Disney Zootopia Edition Cookie Box - 6ct :: OREOiD Disney Zootopia Edition\nCookie Box - 6ct
+Container > Container > $29.99 :: $29.99
+Container > Background > NEW! :: NEW!
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Container > Link > OREOiD Mickey & Friends - 12ct :: OREOiD Mickey & Friends - 12ct
+Container > Container > $42.99 :: $42.99
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Container > Link > OREOiD Disney Princess Edition - 12ct :: OREOiD Disney Princess Edition -\n12ct
+Container > Container > $42.99 :: $42.99
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Container > Link > OREOiD Disney Princess Snow White - 6ct :: OREOiD Disney Princess Snow\nWhite - 6ct
+Container > Container > $29.99 :: $29.99
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Container > Link > OREOiD Disney Princess Edition - 6ct :: OREOiD Disney Princess Edition -\n6ct
+Container > Container > $29.99 :: $29.99
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Section > Heading 2 > Stock Up :: Stock Up
+Heading 3:margin > Heading 3 > on your faves :: on your faves
+Overlay+OverlayBlur > Container > Build Your Bundle :: Build Your Bundle
+Container > Container > Build Your Bundle :: Build Your Bundle
+Container > Link > Thins Bundle :: Thins Bundle
+Container > Container > $17.99 :: $17.99
+Container > Background > NEW! :: NEW!
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Container > Link > OREO Joy! Red-Colored Creme, Limited Edition Holiday Cookies :: OREO Joy! Red-Colored Creme,\nLimited Edition Holiday Cookies
+Container > Container > $5.29 :: $5.29
+Container > Background > NEW! :: NEW!
+Container > Container > Notify Me :: Notify Me
+Background > Container > Notify Me :: Notify Me
+Container > Link > Apple Pie a la Mode Sandwich Cookies, Limited Edition, 2 Pack :: Apple Pie a la Mode Sandwich\nCookies, Limited Edition, 2 Pack
+Container > Container > $9.99 :: $9.99
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Container > Link > Blueberry Pie Sandwich Cookies, Limited Edition :: Blueberry Pie Sandwich Cookies,\nLimited Edition
+Container > Container > $9.99 :: $9.99
+Container > Container > Notify Me :: Notify Me
+Background > Container > Notify Me :: Notify Me
+Container > Link > Gluten Free Bundle :: Gluten Free Bundle
+Container > Container > $17.99 :: $17.99
+Container > Background > NEW! :: NEW!
+Container > Container > Add to Cart :: Add to Cart
+Container > Container > Add to Cart :: Add to Cart
+Container > Heading 1 > Get Inspired :: Get Inspired
+Container > Container > Endless possibilities for every occasion. :: Endless possibilities for every occasion.
+Container > Container > Recipes :: Recipes
+Container > Container > Recipes :: Recipes
+Container > Heading 2 > Real Or Fake?! :: Real Or Fake?!
+Container > Container > Think you know OREO cookie flavors? Drag left for fake, right for real! :: Think you know OREO cookie flavors?\nDrag left for fake, right for real!
+Container > Container > Too wild :: Too wild
+Container > Container > to be true :: to be true
+Container > Container > Yep this :: Yep this
+Container > Container > one's Real! :: one's Real!
+Heading 2 > Container > Enter the :: Enter the
+Heading 2 > Container > OREOVERSE :: OREOVERSE
+Margin > Container > The OREO brand's past, present, and future - all in one twisted place. :: The OREO brand's past, present,\nand future - all in one twisted\nplace.
+Container > Container > ENTER THE OREOVERSE :: ENTER THE OREOVERSE
+Background > Container > ENTER THE OREOVERSE :: ENTER THE OREOVERSE
+Container > Heading 3 > Join the OREO Dunk Club :: Join the OREO\nDunk Club
+Container > Container > Sign up today to get 10% off & be the first to hear about exclusive offers, news, and more! :: Sign up today to get 10% off & be the first to hear about\nexclusive offers, news, and more!
+Container > Container > Sign Up :: Sign Up
+Background > Container > Sign Up :: Sign Up
+Container > Container > OREO's Fav Foodie Creators :: OREO's Fav Foodie Creators
+Container > Heading 2 > Meet The Makers :: Meet The Makers
+Margin > Container > 842K Subscribers :: 842K Subscribers
+Margin > Container > 3.7M Followers :: 3.7M Followers
+Margin > Container > 3.7M Followers :: 3.7M Followers
+Margin > Container > 2.2M Followers :: 2.2M Followers
+Container > Container > SIGN UP. SNACK MORE. SAVE 15% :: SIGN UP.\nSNACK MORE.\nSAVE 15%
+Container > Container > Sign Up :: Sign Up
+Background > Container > Sign Up :: Sign Up
+Container > Container > Shop :: Shop
+Container > Container > Menuitem → Shop All :: Shop All
+Container > Container > Menuitem → OREOiD :: OREOiD
+Container > Container > Menuitem → Merch :: Merch
+Container > Container > Menuitem → Bundles :: Bundles
+Container > Container > Menuitem → Corporate Gifting :: Corporate Gifting
+Container > Container > Discover :: Discover
+Container > Container > Menuitem → Recipes :: Recipes
+Container > Container > Menuitem → OREOverse :: OREOverse
+Container > Container > Menuitem → Dunk Club :: Dunk Club
+Container > Container > Other :: Other
+Container > Container > Menuitem → FAQs :: FAQs
+Container > Container > Menuitem → Contact :: Contact
+Container > Container > Menuitem → Order Status :: Order Status
+Container > Container > Menuitem → Shipping :: Shipping
+Container > Container > Menuitem → OREO for foodservice :: OREO for foodservice
+Container > Heading 3 > DUNK IT LOW... WATCH IT GO! :: DUNK IT LOW... WATCH IT GO!
+Container > Heading 4 > Click & Drag cookie to release :: Click & Drag cookie to release
+Container > Container > RETURN TO TOP :: RETURN TO TOP
+Container > Container > Stay Playful :: Stay\nPlayful
+Container > Container > © 2025 Mondelēz International. All Rights reserved. :: © 2025 Mondelēz International. All Rights reserved.
+Container > Container > Link → Terms & Conditions :: Terms & Conditions
+Container > Container > Link → Privacy Policy :: Privacy Policy
+Container > Container > Link → Cookie Policy :: Cookie Policy
+Container > Container > Link → Accessibility :: Accessibility
+Container > Container > Link → Do not sell or share my info :: Do not sell or share my info
+Container > Button > COOKIE SETTINGS :: COOKIE SETTINGS
+Container > Container > Shop :: Shop
+Container > Container > Shop :: Shop
+Container > Container > Gifts :: Gifts
+Container > Container > Gifts :: Gifts
+Container > Container > Oreoverse :: Oreoverse
+Container > Container > Oreoverse :: Oreoverse
+Container > Container > Recipes :: Recipes
+Container > Container > Recipes :: Recipes
+Container > Container > DESIGN YOUR OREOiD :: DESIGN YOUR OREOiD
+Container > Container > DESIGN YOUR OREOiD :: DESIGN YOUR OREOiD
+Button > Container > Get 15% Off :: Get 15% Off
+Container > Link > Shop now :: Shop now
+Container > Heading 2 > Delight in every bite :: Delight in every bite
+Container > Container > Biscoff brings together the perfect balance of rich, caramelized flavor and crunch. Adored by people worldwide, every bite is a moment of pure delight!  :: Biscoff brings together the perfect balance of rich, caramelized\nflavor and crunch. Adored by people worldwide, every bite is a\nmoment of pure delight! 
+Container > Link > Get a taste of our history :: Get a taste of our history
+Container > Heading 2 > Everybody wants to get their hands on Biscoff® :: Everybody wants to get\ntheir hands on\nBiscoff®
+Container > Container > Amazing how great the appeal of Biscoff can be! Once you get a taste, you can't help but crave it...  :: Amazing how great the appeal of Biscoff can be! Once you get a\ntaste, you can't help but crave it... 
+Container > Link > Discover our range :: Discover our range
+Container > Link > Discover our recipes :: Discover our recipes
+Container > Heading 2 > One unique taste, multiple ways to enjoy it :: One unique taste,\nmultiple ways to enjoy\nit
+Container > Container > While it all started with the original cookie, Biscoff’s unique taste is now available in a whole range of delicious products. :: While it all started with the original cookie, Biscoff’s unique taste\nis now available in a whole range of delicious products.
+Container > Link > Discover our range :: Discover our range
+Container > Heading 2 > Discover our latest campaign videos :: Discover our latest campaign videos
+Container > Container > Copyright @ 2025 Lotus Bakeries :: Copyright @ 2025 Lotus Bakeries
+Item > Link > Terms and conditions :: Terms and conditions
+Item > Link > Privacy policy :: Privacy policy
+Item > Link > Corporate :: Corporate
+Item > Link > Contact :: Contact
+Item > Link > Jobs :: Jobs
+Item > Link > Sustainability :: Sustainability
+Container > Link > International - English :: International - English
+Item > Link > Consumer :: Consumer
+Item > Link > Professional :: Professional
+Item:margin > Item → Link > Home :: Home
+Item:margin > Item → Link > About us :: About us
+Item:margin > Item → Link > Products :: Products
+Item:margin > Item → Link > Recipes :: Recipes
+Item:margin > Item → Link > Store locator :: Store locator
+Container > Heading 2 > Delight in Every Bite :: Delight in Every Bite
+Container > Container > Biskett is where warm caramel flavor meets a pleasant crunch. Each bite is a brief pause simple, memorable, and genuinely enjoyable :: Biskett is where warm caramel flavor meets a pleasant crunch. Each bite is a brief pause simple, memorable, and genuinely enjoyable
+Container > Heading 2 > A Crunch You’ll Love :: A Crunch You’ll Love
+Container > Container > Biskett’s appeal is no coincidence. Try it once, and it’s hard to let go. :: Biskett’s appeal is no coincidence. Try it once, and it’s hard to let go.
+Frame 1073714945 > Heading 2 > Biskett, for Every Moment :: Biskett, for Every Moment
+Frame 1073714945 > Container > With afternoon tea, a morning coffee, or whenever you’re in the mood for a light snack. Biskett is made for those moments when you need a small, tasty pause. :: With afternoon tea, a morning coffee, or whenever you’re in the mood for a light snack. Biskett is made for those moments when you need a small, tasty pause.
+Margin > Container > Export Distribution Map :: Export Distribution Map
+EXPORT MAP > Margin > Today, Biskett is enjoyed alongside tea and coffee by people in more than 20 countries, a taste that started on a shelf and found its way around the world. :: Today, Biskett is enjoyed alongside tea and coffee by people in more than 20 countries, a taste that started on a shelf and found its way around the world.
+Margin > Frame 1618873924 > Russia .Canada. Netherlands .Georgia. Mongolia Kazakhstan .Uzbekistan Turkmenistan .Dubai .Iraq Yemen .Oman .Kenya Libya .Australia .Afghanistan Bahrain :: Russia .Canada. Netherlands .Georgia. Mongolia Kazakhstan .UzbekistanTurkmenistan .Dubai .Iraq Yemen .Oman .Kenya Libya .Australia .Afghanistan Bahrain
+Container > Container > Biskett Products :: Biskett Products
+OUR PROSUCTS > Margin > A choice for every taste and every occasion. :: A choice for every taste and every occasion.
+Group 39 > Frame 2 > Biskett cookie :: Biskett\ncookie
+Group 39 > Frame 2 > Biskett is a cookie with a surprisingly crunchy bite and distinctive flavor. :: Biskett is a cookie with a surprisingly crunchy bite and distinctive flavor.
+Group 39 > Frame 2 > 400g Biskett Cream :: 400g Biskett Cream
+Group 39 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 39 > Frame 2 > Sandwich Cookies :: SandwichCookies
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Group 38 > Frame 2 > 3kg Biskett Cream :: 3kg Biskett Cream
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Container > Heading 2 > Ready to Grow Your Business with Biskett? :: Ready to Grow Your Business with Biskett?
+Container > Container > Complete the business partnership form, and the Biskett sales team will contact you within 48 hours. :: Complete the business partnership form, and the Biskett sales team will contact you within 48 hours.
+Frame 1618873791 > Frame 1618873909 > What-are-you-working :: Company Name
+Website > Frame 1618873909 > What-are-you-working :: Country
+Frame 1618873791 > Website > * :: *
+Frame 1618873792 > Frame 1618873909 > What-are-you-working :: Contact Info Name
+Frame 1618873792 > Frame 1618873910 > What-are-you-working :: Estimated Order Volume
+Frame 1618873782 > Frame 1618873910 > What-are-you-working :: Estimated Order Volume
+CONTACT US > Margin > contact us :: contact us
+CONTACT US > Margin > We’re here to answer your questions. :: We’re here to answer your questions.
+Frame 1618873914 > Frame 1618873790 > PHONE :: PHONE
+Frame 1618873914 > Frame 1618873790 > +44-123-654-7890 :: (+98) 21 91004664
+Frame 1618873914 > Frame 1618873789 > ADDRESS :: ADDRESS
+Frame 1618873789 > Frame 1618873786 > 4074-Ebert-Summit-Su :: No. 30, Golzar Alley, Golshan St., Khorramshahr St,North Sohravardi, Tehran, Iran
+Frame 1618873914 > Frame 1618873788 > EMAIL ID :: EMAIL ID
+Frame 1618873914 > Frame 1618873788 > +44-123-654-7890 :: info@atpg.co
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+Frame 1618873922 > Group 58 > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Group 1 > Frame 1618873926 > Biskett is loved everywhere :: Biskett is loved everywhere
+Group 1 > Frame 1618873926 > because it’s not just eaten; it’s felt, and it stays with you. :: because it’s not just eaten; it’s felt, and it stays with you.
+Container > Heading 2 > Crafted with Care Because Taste Matters :: Crafted with Care Because Taste Matters
+Container > Container > At Biskett, quality begins with ingredient selection.  Carefully chosen materials, precise processes, and constant attention to detail.  No exaggeration, no unnecessary additives — just a clean taste meant to make your everyday moments more enjoyable. :: At Biskett, quality begins with ingredient selection.  Carefully chosen materials, precise processes, and constant attention to detail.  No exaggeration, no unnecessary additives — just a clean taste meant to make your everyday moments more enjoyable.
+Container > Heading 2 > Biskett A Pause That Tastes Good :: Biskett\nA Pause That Tastes Good
+Container > Container > Biskett started with a simple idea: to create a biscuit that makes you feel good with every bite. A warm caramel flavor, a crisp texture, and a balance that’s never accidental. Every detail is carefully selected to create an experience designed just for you. :: Biskett started with a simple idea: to create a biscuit that makes you feel good with every bite. A warm caramel flavor, a crisp texture, and a balance that’s never accidental. Every detail is carefully selected to create an experience designed just for you.
+Container > Heading 2 > A Taste That Found Its Way to the World :: A Taste That Found Its Way to the World
+Container > Container > Biskett gradually made its way forward simply through a well-crafted taste. Today, alongside tea or coffee, in everyday moments, Biskett is that small pause that makes things feel better. :: Biskett gradually made its way forward simply through a well-crafted taste. Today, alongside tea or coffee, in everyday moments, Biskett is that small pause that makes things feel better.
+Container > Heading 2 > Committed to a Better Tomorrow :: Committed to a Better Tomorrow
+Container > Container > Biskett doesn’t look only at today. Reducing environmental impact, responsible production, and conscious choices are all part of our path toward building a more sustainable future for a taste meant to last. :: Biskett doesn’t look only at today. Reducing environmental impact, responsible production, and conscious choices are all part of our path toward building a more sustainable future for a taste meant to last.
+Container > Heading 2 > Biskett A Flavorful Legacy of Quality and Authenticity :: Biskett\nA Flavorful Legacy of Quality and Authenticity
+Container > Container > From day one, Biskett was shaped by a commitment to creating biscuits that deliver genuine enjoyment in every bite. Its distinctive caramel flavor and smooth biscuit cream have made Biskett a popular choice among people around the world. :: From day one, Biskett was shaped by a commitment to creating biscuits that deliver genuine enjoyment in every bite. Its distinctive caramel flavor and smooth biscuit cream have made Biskett a popular choice among people around the world.
+Container > Heading 2 > Discover More of the Biskett World :: Discover More of the Biskett World
+Container > Container > If you enjoy Biskett, there’s more to explore.  A diverse range of products, new ideas, and different ways to enjoy a familiar taste. :: If you enjoy Biskett, there’s more to explore.  A diverse range of products, new ideas, and different ways to enjoy a familiar taste.
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+ABOUT US.EN > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Group 1 > Frame 1618873926 > Biskett is loved everywhere :: Biskett is loved everywhere
+Group 1 > Frame 1618873926 > because it’s not just eaten; it’s felt, and it stays with you. :: because it’s not just eaten; it’s felt, and it stays with you.
+Container > Heading 2 > بیسکت؛ میراثی خوش‌طعم از کیفیت و اصالت :: بیسکت؛ \nمیراثی خوش‌طعم از کیفیت و اصالت
+Container > Container > از روز نخست طعم کاراملی خاص و کرم بیسکت، این برند را به انتخابی محبوب برای افراد در سراسر جهان تبدیل کرده است. این بیاد بالا جای اولی :: از روز نخست طعم کاراملی خاص و کرم بیسکت، این برند را به انتخابی محبوب برای افراد در سراسر جهان تبدیل کرده است. این بیاد بالا جای اولی
+Container > Button > مشاهده محصولات :: مشاهده محصولات
+Container > Heading 2 > طعمی که راهش را به جهان باز کرد :: طعمی که راهش را به جهان باز کرد
+Container > Container > امروز کنار چای یا قهوه، در لحظه‌های ساده‌ی روزمره، بیسکت همون مکث کوچیکیه که قراره حال همه‌رو بهتر کنه. :: امروز کنار چای یا قهوه، در لحظه‌های ساده‌ی روزمره، بیسکت همون مکث کوچیکیه که قراره حال همه‌رو بهتر کنه.
+Container > Heading 2 > با دقت ساخته می‌شود؛ چون طعم مهم است :: با دقت ساخته می‌شود؛ چون طعم مهم است
+Container > Container > کیفیت در بیسکت به انتخاب مواد اولیه، فرایند پخت و توجه دائمی به جزئیات تعریف می‌شه. نه اغراق، نه افزودنیِ غیرضروری؛ فقط طعمی خاص که قراره  لحظه‌های شمارو دلنشین‌تر کنه! :: کیفیت در بیسکت به انتخاب مواد اولیه، فرایند پخت و توجه دائمی به جزئیات تعریف می‌شه.\nنه اغراق، نه افزودنیِ غیرضروری؛ فقط طعمی خاص که قراره  لحظه‌های شمارو دلنشین‌تر کنه!
+Container > Button > مشاهده محصولات :: مشاهده محصولات
+Container > Heading 2 > بیسکت؛ مکثی که مزه داره :: بیسکت؛ \nمکثی که مزه داره
+Container > Container > بیسکت از یک ایده ساده شروع شد: طعم کاراملی، برشته و لذتی که اتفاقی نیست. همه‌چیز با دقت انتخاب شده تا تجربه‌ی بی‌نظیری برات بسازه. :: بیسکت از یک ایده ساده شروع شد:\nطعم کاراملی، برشته و لذتی که اتفاقی نیست. همه‌چیز با دقت انتخاب شده تا تجربه‌ی بی‌نظیری برات بسازه.
+Container > Heading 2 > متعهد به فردایی بهتر :: متعهد به فردایی بهتر
+Container > Container > بیسکت نگاهش فقط به امروز نیست. کاهش اثرات زیست‌محیطی، تولید مسئولانه و انتخاب‌های آگاهانه، بخشی از مسیر ما برای ساختن آینده‌ای پایدارتر است، برای طعمی که قرار است ماندگار بماند. :: بیسکت نگاهش فقط به امروز نیست. کاهش اثرات زیست‌محیطی، تولید مسئولانه و انتخاب‌های آگاهانه، بخشی از مسیر ما برای ساختن آینده‌ای پایدارتر است، برای طعمی که قرار است ماندگار بماند.
+Container > Heading 2 > دنیای بیسکت را بیشتر بشناس :: دنیای بیسکت را بیشتر بشناس
+Container > Container > اگر بیسکت را دوست داری، هنوز چیزهای بیشتری برای کشف کردن وجود دارد. محصولات متنوع، ایده‌های مختلف و راه‌های گوناگون لذت بردن از یک طعم آشنا. :: اگر بیسکت را دوست داری، هنوز چیزهای بیشتری برای کشف کردن وجود دارد. محصولات متنوع، ایده‌های مختلف و راه‌های گوناگون لذت بردن از یک طعم آشنا.
+Container > Button > ورود به دنیای بیسکت :: ورود به دنیای بیسکت
+Frame 1618873922 > Frame 1073714946 > خانه :: خانه
+Frame 1618873922 > Frame 1073714946 > درباره‌ی بیسکت :: درباره‌ی بیسکت
+Frame 1618873922 > Frame 1073714946 > محصولات :: محصولات
+Frame 1618873922 > Frame 1073714946 > ارتباط با ما :: ارتباط با ما
+Frame 1618873922 > Frame 1073714946 > رسپی ها :: رسپی ها
+ABOUT US.FA > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Frame 1618873928 > Frame 1618873926 > Biskett is loved everywhere :: Biskett is loved everywhere
+Frame 1618873928 > Frame 1618873926 > because it’s not just eaten; it’s felt, and it stays with you. :: because it’s not just eaten; it’s felt, and it stays with you.
+Container > Heading 2 > Crafted with Care Because Taste Matters :: Crafted with Care Because Taste Matters
+Container > Container > At Biskett, quality begins with ingredient selection. Carefully chosen materials, precise processes, and constant attention to detail. No exaggeration, no unnecessary additives — just a clean taste meant to make your everyday moments more enjoyable. :: At Biskett, quality begins with ingredient selection. Carefully chosen materials, precise processes, and constant attention to detail. No exaggeration, no unnecessary additives — just a clean taste meant to make your everyday moments more enjoyable.
+Container > Heading 2 > Biskett A Pause That Tastes Good :: Biskett\nA Pause That Tastes Good
+Container > Container > Biskett started with a simple idea: to create a biscuit that makes you feel good with every bite. A warm caramel flavor, a crisp texture, and a balance that’s never accidental. Every detail is carefully selected to create an experience designed just for you. :: Biskett started with a simple idea: to create a biscuit that makes you feel good with every bite.\nA warm caramel flavor, a crisp texture, and a balance that’s never accidental. Every detail is carefully selected to create an experience designed just for you.
+Container > Heading 2 > A Taste That Found Its Way to the World :: A Taste That Found Its Way to the World
+Container > Container > Biskett gradually made its way forward simply through a well-crafted taste. Today, alongside tea or coffee, in everyday moments, Biskett is that small pause that makes things feel better. :: Biskett gradually made its way forward simply through a well-crafted taste. Today, alongside tea or coffee, in everyday moments, Biskett is that small pause that makes things feel better.
+Container > Heading 2 > Biskett A Flavorful Legacy of Quality and Authenticity :: Biskett\nA Flavorful Legacy of Quality and Authenticity
+Container > Container > From day one, Biskett was shaped by a commitment to creating biscuits that deliver genuine enjoyment in every bite. Its distinctive caramel flavor and smooth biscuit cream have made Biskett a popular choice among people around the world. :: From day one, Biskett was shaped by a commitment to creating biscuits that deliver genuine enjoyment in every bite. Its distinctive caramel flavor and smooth biscuit cream have made Biskett a popular choice among people around the world.
+Container > Heading 2 > Discover More of the Biskett World :: Discover More of the Biskett World
+Container > Container > If you enjoy Biskett, there’s more to explore.  A diverse range of products, new ideas, and different ways to enjoy a familiar taste. :: If you enjoy Biskett, there’s more to explore.  A diverse range of products, new ideas, and different ways to enjoy a familiar taste.
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+Frame 1618873922 > Group 58 > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Button > Property 1=Default > Get a taste of our history :: Get a taste of our history
+Button > Property 1=Hover > Get a taste of our history :: Get a taste of our history
+Button > Property 1=Default > CONTACT US :: CONTACT US
+Button > Property 1=Hover > CONTACT US :: CONTACT US
+Button > Property 1=Default > Discover our range :: Discover our range
+Button > Property 1=Hover > Discover our range :: Discover our range
+Container > Container > Our PRODUCTS :: Our PRODUCTS
+OUR PROSUCTS > Margin > Explore a selection of our brands :: Explore a selection of our brands
+Group 39 > Frame 2 > Biskett cookie :: Biskett\ncookie
+Group 39 > Frame 2 > Biskett is a cookie with a surprisingly crunchy bite and distinctive flavor. :: Biskett is a cookie with a surprisingly crunchy bite and distinctive flavor.
+Group 39 > Frame 2 > Creamy Cookie Butter :: Creamy Cookie Butter
+Group 39 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 39 > Frame 2 > Sandwich Cookies :: SandwichCookies
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Group 38 > Frame 2 > Creamy Cookie Butter :: Creamy Cookie Butter
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Margin > Container > Export Distribution Map :: Export Distribution Map
+EXPORT MAP > Margin > Our products are now available in over 20 countries, including Germany, Japan, Canada, the United Arab Emirates and Australia. :: Our products are now available in over 20 countries, including Germany, Japan, Canada, the United Arab Emirates and Australia.
+Margin > Frame 1618873924 > Russia .Canada. Netherlands .Georgia. Mongolia Kazakhstan .Uzbekistan Turkmenistan .Dubai .Iraq Yemen .Oman .Kenya Libya .Australia .Afghanistan Bahrain :: Russia .Canada. Netherlands .Georgia. Mongolia Kazakhstan .UzbekistanTurkmenistan .Dubai .Iraq Yemen .Oman .Kenya Libya .Australia .Afghanistan Bahrain
+Group 50 > Canada > Canada :: Canada
+Group 50 > Germany > brazil :: brazil
+Libya > Frame 1618873915 > 1 :: 1
+Group 50 > Libya > Libya :: Libya
+Group 50 > Uzbekistan > Uzbekistan :: Uzbekistan
+Group 50 > Australia > Australia :: Australia
+Group 50 > Germany > Germany :: Germany
+Kazakhstan > Frame 1618873915 > 1 :: 1
+Group 50 > Kazakhstan > Kazakhstan :: Kazakhstan
+Group 50 > Afghanistan > Afghanistan :: Afghanistan
+Group 50 > India > India :: India
+Group 50 > Iraq > Iraq :: Iraq
+Group 50 > Oman > Oman :: Oman
+Group 50 > Georgia > Georgia :: Georgia
+Group 50 > Dubi > Dubi :: Dubi
+Group 50 > Kenya > Kenya :: Kenya
+Group 50 > Turkmenistan > Turkmenistan :: Turkmenistan
+Kazakhstan > Frame 1618873915 > 1 :: 1
+Group 51 > Kazakhstan > Kazakhstan :: Kazakhstan
+Group 50 > Polance > Polance :: Polance
+Group 50 > Yemen > Yemen :: Yemen
+Group 50 > Russia > Russia :: Russia
+Group 50 > Mongolia > Mongolia :: Mongolia
+Group 50 > Pakistan > Pakistan :: Pakistan
+List > Component 21 > home :: home
+List > Component 24 > About Biskett :: About Biskett
+List > Component 27 > products :: products
+List > Component 25 > Blog :: Blog
+List > Component 28 > Contact Us :: Contact Us
+List > Component 29 > recipes :: recipes
+List > Component 26 > Partner With Us :: Partner With Us
+List > Component 21 > همکاری با ما :: همکاری با ما
+List > Component 24 > رسپی‌ها :: رسپی‌ها
+List > Component 29 > ارتباط با ما :: ارتباط با ما
+List > Component 27 > بلاگ :: بلاگ
+List > Component 25 > محصولات :: محصولات
+List > Component 28 > درباره‌ی بیسکت :: درباره‌ی بیسکت
+List > Component 26 > خانه :: خانه
+Container > Component 21 > home :: home
+Container > Component 24 > About Biskett :: About Biskett
+Container > Component 27 > products :: products
+Container > Component 25 > Blog :: Blog
+Container > Component 28 > Contact Us :: Contact Us
+Container > Component 29 > recipes :: recipes
+Container > Component 26 > Partner With Us :: Partner With Us
+Container > Heading 2 > Our Products :: Our Products
+Heading 2 > Frame 1618873933 > the original speculaas you name it we bake it :: the original speculaas you name it we bake it
+Container > Container > The unique taste of this world-famous biscuit can be enjoyed as a delicious snack, with a cup of coffee, on a slice of bread, or even as a delicious breakfast. :: The unique taste of this world-famous biscuit can be enjoyed as a delicious snack, with a cup of coffee, on a slice of bread, or even as a delicious breakfast.
+Group 50 > Frame 1618873932 > Classic Biskett 200g :: Classic Biskett 200g
+Group 50 > Frame 1618873932 > Classic Biskett Cookies – 200g :: Classic Biskett Cookies – 200g
+Group 50 > Frame 1618873932 > BISKETT SANDWICH COOKIES :: BISKETT SANDWICH COOKIES
+Group 50 > Frame 1618873932 > Biskett Sandwich Cookies :: Biskett Sandwich Cookies
+Group 50 > Frame 1618873932 > 400g Biskett Cream :: 400g Biskett Cream
+Group 50 > Frame 1618873932 > Biskett Cookie Butter :: Biskett Cookie Butter
+Group 50 > Frame 1618873932 > 3kg Biskett Cream :: 3kg Biskett Cream
+Group 50 > Frame 1618873932 > Biskett Creamy Cookie Butter :: Biskett Creamy Cookie Butter
+Group 50 > Frame 1618873932 > Classic Biskett 100g :: Classic Biskett 100g
+Group 50 > Frame 1618873932 > Classic Biskett Cookies – 100g :: Classic Biskett Cookies – 100g
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+PRODUCTS.EN > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+FOOTER > Container > see BISKETT caTALOGE :: see BISKETT caTALOGE
+Container > Link > DOWNLOAD biskett CATALOGE :: DOWNLOAD biskett CATALOGE
+Container > Heading 2 > محصولات ما :: محصولات ما
+Container > Container > The unique taste of this world-famous biscuit can be enjoyed as a delicious snack, with a cup of coffee, on a slice of bread, or even as a delicious breakfast. :: The unique taste of this world-famous biscuit can be enjoyed as a delicious snack, with a cup of coffee, on a slice of bread, or even as a delicious breakfast.
+Margin > Frame 1618873933 > the original speculaas you name it we bake it :: the original speculaas you name it we bake it
+Group 50 > Frame 1618873932 > بیسکِت کلاسیک ۲۰۰ گرمی :: بیسکِت کلاسیک ۲۰۰ گرمی
+Group 50 > Frame 1618873932 > Classic Biskett Cookies – 200g :: Classic Biskett Cookies – 200g
+Group 50 > Frame 1618873932 > بیسکِت ساندویچی :: بیسکِت ساندویچی
+Group 50 > Frame 1618873932 > Biskett Sandwich Cookies :: Biskett Sandwich Cookies
+Group 50 > Frame 1618873932 > کرم بیسکت ۴۰۰ گرمی :: کرم بیسکت ۴۰۰ گرمی
+Group 50 > Frame 1618873932 > Biskett Cookie Butter :: Biskett Cookie Butter
+Group 50 > Frame 1618873932 > کرم بیسکت 3کیلویی :: کرم بیسکت 3کیلویی
+Group 50 > Frame 1618873932 > Biskett Creamy Cookie Butter :: Biskett Creamy Cookie Butter
+Group 50 > Frame 1618873932 > بیسکِت کلاسیک ۱۰۰ گرمی :: بیسکِت کلاسیک ۱۰۰ گرمی
+Group 50 > Frame 1618873932 > Classic Biskett Cookies – 100g :: Classic Biskett Cookies – 100g
+Frame 1618873922 > Frame 1073714946 > خانه :: خانه
+Frame 1618873922 > Frame 1073714946 > درباره‌ی بیسکت :: درباره‌ی بیسکت
+Frame 1618873922 > Frame 1073714946 > محصولات :: محصولات
+Frame 1618873922 > Frame 1073714946 > ارتباط با ما :: ارتباط با ما
+Frame 1618873922 > Frame 1073714946 > رسپی ها :: رسپی ها
+PRODUCTS.FA > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Container > Link > دانلود کاتالوگ بیسکت :: دانلود کاتالوگ بیسکت
+FOOTER > Container > مشاهده کاتالوگ بیسکت :: مشاهده کاتالوگ بیسکت
+Container > Heading 2 > Our Products :: Our Products
+Group 50 > Frame 1618873932 > Classic Biskett 200g :: Classic Biskett 200g
+Group 50 > Frame 1618873932 > Classic Biskett Cookies – 200g :: Classic Biskett Cookies – 200g
+Group 50 > Frame 1618873932 > BISKETT SANDWICH COOKIES :: BISKETT SANDWICH COOKIES
+Group 50 > Frame 1618873932 > Biskett Sandwich Cookies :: Biskett Sandwich Cookies
+Group 50 > Frame 1618873932 > 400g Biskett Cream :: 400g Biskett Cream
+Group 50 > Frame 1618873932 > Biskett Cookie Butter :: Biskett Cookie Butter
+Group 50 > Frame 1618873932 > 3kg biskett cream :: 3kg biskett cream
+Group 50 > Frame 1618873932 > Biskett Creamy Cookie Butter :: Biskett Creamy Cookie Butter
+Group 50 > Frame 1618873932 > Classic Biskett 100g :: Classic Biskett 100g
+Group 50 > Frame 1618873932 > Classic Biskett Cookies – 100g :: Classic Biskett Cookies – 100g
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+Frame 1618873922 > Group 58 > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Group 1 > Frame 1618873926 > Biskett A Distinctive Taste :: Biskett\nA Distinctive Taste
+Group 1 > Frame 1618873926 > Biskett is a crisp biscuit with a distinctive taste.  Its unique caramel flavor has driven its popularity across different countries.  Enjoy it at any time of day, alongside tea or coffee. :: Biskett is a crisp biscuit with a distinctive taste.  Its unique caramel flavor has driven its popularity across different countries.  Enjoy it at any time of day, alongside tea or coffee.
+Container > Heading 2 > Available in these packages :: Available in these packages
+Container > Container > Click on each package to view nutritional and allergy information. :: Click on each package to view nutritional and allergy information.
+Frame 47 > Frame 1618873945 > Classic Biskett-200g :: Classic Biskett-200g
+Frame 47 > Frame 1618873945 > Nutrition Information :: Nutrition Information
+Frame 1618873956 > Frame 1618873933 > Calories per piece :: Calories per piece
+Frame 1618873956 > Frame 1618873933 > 150 | 8% :: 150 | 8%
+Frame 1618873956 > Frame 1618873934 > Total fat :: Total fat
+Frame 1618873956 > Frame 1618873934 > 6g | 8% :: 6g | 8%
+Frame 1618873956 > Frame 1618873935 > Saturated Fat :: Saturated Fat
+Frame 1618873956 > Frame 1618873935 > 2.5g | 13% :: 2.5g | 13%
+Frame 1618873956 > Frame 1618873936 > Carbohydrates :: Carbohydrates
+Frame 1618873956 > Frame 1618873936 > 0mg | 0% :: 0mg | 0%
+Frame 1618873956 > Frame 1618873937 > Dietary fiber :: Dietary fiber
+Frame 1618873956 > Frame 1618873937 > 115mg | 5% :: 115mg | 5%
+Frame 1618873956 > Frame 1618873946 > Sugars :: Sugars
+Frame 1618873956 > Frame 1618873946 > 115mg | 5% :: 115mg | 5%
+Frame 1618873956 > Frame 1618873942 > Protein :: Protein
+Frame 1618873956 > Frame 1618873942 > 2g :: 2g
+Frame 1618873956 > Frame 1618873938 > Cholesterol :: Cholesterol
+Frame 1618873956 > Frame 1618873938 > 23g | 8% :: 23g | 8%
+Frame 1618873956 > Frame 1618873939 > Sodium :: Sodium
+Frame 1618873956 > Frame 1618873939 > 0g | 0% :: 0g | 0%
+Frame 1618873956 > Frame 1618873940 > Potassium :: Potassium
+Frame 1618873956 > Frame 1618873940 > 12g :: 12g
+Frame 1618873956 > Frame 1618873941 > Calcium :: Calcium
+Frame 1618873956 > Frame 1618873941 > 22% :: 22%
+Classic Biskett-200g.EN > Container > The % Daily Value (DV) indicates how much a nutrient contributes to a daily diet. Values are based on a 2,000-calorie daily intake. :: The % Daily Value (DV) indicates how much a nutrient contributes to a daily diet. Values are based on a 2,000-calorie daily intake.
+Container > Frame 1618873944 > Compositions :: Compositions
+Container > Frame 1618873944 > Wheat flour, sugar, hydrogenated vegetable oils, invert syrup, corn starch, powdered milk, sodium bicarbonate (E500), soy flour, cinnamon powder, refined salt, permitted edible vanilla flavoring (ethyl vanillin), soy lecithin (E322) and water. :: Wheat flour, sugar, hydrogenated vegetable oils, invert syrup, corn starch, powdered milk, sodium bicarbonate (E500), soy flour, cinnamon powder, refined salt, permitted edible vanilla flavoring (ethyl vanillin), soy lecithin (E322) and water.
+Container > Frame 1618873945 > Non GMO Statement :: Non GMO Statement
+Container > Frame 1618873945 > Our Non-GMO standard is based on supplier declarations for each ingredient. The ingredients used in Biskett are of non-GMO origin. :: Our Non-GMO standard is based on supplier declarations for each ingredient. The ingredients used in Biskett are of non-GMO origin.
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+Classic Biskett-200g.EN > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Group 1 > Frame 1618873926 > Biskett A Distinctive Taste :: Biskett\nA Distinctive Taste
+Group 1 > Frame 1618873926 > Biskett is a crisp biscuit with a distinctive taste.  Its unique caramel flavor has driven its popularity across different countries.  Enjoy it at any time of day, alongside tea or coffee. :: Biskett is a crisp biscuit with a distinctive taste.  Its unique caramel flavor has driven its popularity across different countries.  Enjoy it at any time of day, alongside tea or coffee.
+Container > Heading 2 > Available in these packages :: Available in these packages
+Container > Container > Click on each package to view nutritional and allergy information. :: Click on each package to view nutritional and allergy information.
+Frame 1618873959 > Frame 1618873962 > biskett 4 boxes x 10 packs (200g) :: biskett 4 boxes x 10 packs (200g)
+Frame 1618873961 > Frame 1618873963 > Classic Biskett 200g :: Classic Biskett 200g
+Frame 1618873964 > Frame 1618873965 > biskett 200g x 10 :: biskett 200g x 10
+Component 27 > Frame 1618873945 > Classic Biskett-200g :: Classic Biskett-200g
+Component 27 > Frame 1618873945 > Nutrition Information :: Nutrition Information
+Frame 1618873956 > Frame 1618873933 > Calories per piece :: Calories per piece
+Frame 1618873956 > Frame 1618873933 > 150 | 8% :: 150 | 8%
+Frame 1618873956 > Frame 1618873934 > Total fat :: Total fat
+Frame 1618873956 > Frame 1618873934 > 6g | 8% :: 6g | 8%
+Frame 1618873956 > Frame 1618873935 > Saturated Fat :: Saturated Fat
+Frame 1618873956 > Frame 1618873935 > 2.5g | 13% :: 2.5g | 13%
+Frame 1618873956 > Frame 1618873936 > Carbohydrates :: Carbohydrates
+Frame 1618873956 > Frame 1618873936 > 0mg | 0% :: 0mg | 0%
+Frame 1618873956 > Frame 1618873937 > Dietary fiber :: Dietary fiber
+Frame 1618873956 > Frame 1618873937 > 115mg | 5% :: 115mg | 5%
+Frame 1618873956 > Frame 1618873946 > Sugars :: Sugars
+Frame 1618873956 > Frame 1618873946 > 115mg | 5% :: 115mg | 5%
+Frame 1618873956 > Frame 1618873942 > Protein :: Protein
+Frame 1618873956 > Frame 1618873942 > 2g :: 2g
+Frame 1618873956 > Frame 1618873938 > Cholesterol :: Cholesterol
+Frame 1618873956 > Frame 1618873938 > 23g | 8% :: 23g | 8%
+Frame 1618873956 > Frame 1618873939 > Sodium :: Sodium
+Frame 1618873956 > Frame 1618873939 > 0g | 0% :: 0g | 0%
+Frame 1618873956 > Frame 1618873940 > Potassium :: Potassium
+Frame 1618873956 > Frame 1618873940 > 12g :: 12g
+Frame 1618873956 > Frame 1618873941 > Calcium :: Calcium
+Frame 1618873956 > Frame 1618873941 > 22% :: 22%
+Container > Frame 1618873946 > The % Daily Value (DV) indicates how much a nutrient contributes to a daily diet. Values are based on a 2,000-calorie daily intake. :: The % Daily Value (DV) indicates how much a nutrient contributes to a daily diet. Values are based on a 2,000-calorie daily intake.
+Container > Frame 1618873944 > Compositions :: Compositions
+Container > Frame 1618873944 > Wheat flour, sugar, hydrogenated vegetable oils, invert syrup, corn starch, powdered milk, sodium bicarbonate (E500), soy flour, cinnamon powder, refined salt, permitted edible vanilla flavoring (ethyl vanillin), soy lecithin (E322) and water. :: Wheat flour, sugar, hydrogenated vegetable oils, invert syrup, corn starch, powdered milk, sodium bicarbonate (E500), soy flour, cinnamon powder, refined salt, permitted edible vanilla flavoring (ethyl vanillin), soy lecithin (E322) and water.
+Container > Frame 1618873945 > Non GMO Statement :: Non GMO Statement
+Container > Frame 1618873945 > Our Non-GMO standard is based on supplier declarations for each ingredient. The ingredients used in Biskett are of non-GMO origin. :: Our Non-GMO standard is based on supplier declarations for each ingredient. The ingredients used in Biskett are of non-GMO origin.
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+PRODUCTS Biskett cookie.EN > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+List > Component 21 > home :: home
+List > Component 24 > About Biskett :: About Biskett
+List > Component 27 > products :: products
+List > Component 25 > Blog :: Blog
+List > Component 28 > Contact Us :: Contact Us
+List > Component 29 > recipes :: recipes
+List > Component 26 > Partner With Us :: Partner With Us
+Group 1 > Frame 1618873926 > Biskett A Distinctive Taste :: Biskett\nA Distinctive Taste
+Group 1 > Frame 1618873926 > Biskett is a crisp biscuit with a distinctive taste.  Its unique caramel flavor has driven its popularity across different countries.  Enjoy it at any time of day, alongside tea or coffee. :: Biskett is a crisp biscuit with a distinctive taste.  Its unique caramel flavor has driven its popularity across different countries.  Enjoy it at any time of day, alongside tea or coffee.
+Container > Heading 2 > در بسته‌بندی‌های زیر عرضه می‌شود :: در بسته‌بندی‌های زیر عرضه می‌شود
+Container > Container > برای دیدن اطلاعات تغذیه‌ای و آلرژی، روی هر بسته‌بندی کلیک کن. :: برای دیدن اطلاعات تغذیه‌ای و آلرژی، روی هر بسته‌بندی کلیک کن.
+Container > Button > آلرژی :: آلرژی
+Container > Button > تغذیه‌ای :: تغذیه‌ای
+Frame 47 > Frame 1618873945 > بیسکت کلاسیک – ۲۰۰ گرمی :: بیسکت کلاسیک – ۲۰۰ گرمی
+Frame 47 > Frame 1618873945 > اطلاعات تغذیه‌ای :: اطلاعات تغذیه‌ای
+Frame 47 > Frame 1618873933 > 150 | 8% :: 150 | 8%
+Frame 47 > Frame 1618873933 > کالری هر قطعه :: کالری هر قطعه
+Frame 47 > Frame 1618873934 > 6g | 8% :: 6g | 8%
+Frame 47 > Frame 1618873934 > چربی کل :: چربی کل
+Frame 47 > Frame 1618873935 > 2.5g | 13% :: 2.5g | 13%
+Frame 47 > Frame 1618873935 > چربی اشباع :: چربی اشباع
+Frame 47 > Frame 1618873936 > 0mg | 0% :: 0mg | 0%
+Frame 47 > Frame 1618873936 > کربوهیدرات :: کربوهیدرات
+Frame 47 > Frame 1618873937 > 115mg | 5% :: 115mg | 5%
+Frame 47 > Frame 1618873937 > فیبر غذایی :: فیبر غذایی
+Frame 47 > Frame 1618873938 > 23g | 8% :: 23g | 8%
+Frame 47 > Frame 1618873938 > قند :: قند
+Frame 47 > Frame 1618873939 > 0g | 0% :: 0g | 0%
+Frame 47 > Frame 1618873939 > پروتئین :: پروتئین
+Frame 47 > Frame 1618873940 > 12g :: 12g
+Frame 47 > Frame 1618873940 > کلسترول :: کلسترول
+Frame 47 > Frame 1618873941 > 22% :: 22%
+Frame 47 > Frame 1618873941 > سدیم :: سدیم
+Frame 47 > Frame 1618873942 > 2g :: 2g
+Frame 47 > Frame 1618873942 > پتاسیوم :: پتاسیوم
+Frame 47 > Frame 1618873943 > 0mcg | 0% :: 0mcg | 0%
+Frame 47 > Frame 1618873943 > کلسیوم :: کلسیوم
+Frame 47 > Frame 1618873946 > 0mcg | 0% :: 0mcg | 0%
+Frame 47 > Frame 1618873946 > آهن :: آهن
+Classic Biskett-200g.FA > Container > درصد ارزش روزانه (DV) نشان می‌دهد هر ماده غذایی چه میزان از نیاز روزانه را تأمین می‌کند. مبنای محاسبه، رژیم ۲۰۰۰ کالری در روز است. :: درصد ارزش روزانه (DV) نشان می‌دهد هر ماده غذایی چه میزان از نیاز روزانه را تأمین می‌کند. مبنای محاسبه، رژیم ۲۰۰۰ کالری در روز است.
+Container > Component 29 > اطلاعات بسته‌بندی :: اطلاعات بسته‌بندی
+Container > Component 29 > جزئیات کارتن , میدل برای حمل‌ونقل و توزیع حرفه‌ای :: جزئیات کارتن , میدل برای حمل‌ونقل و توزیع حرفه‌ای
+Group 1000004478 > design > 200 گرم X 10 :: 200 گرم X 10
+Container > Frame 1618873944 > ترکیبات :: ترکیبات
+Container > Frame 1618873944 > آرد گندم، شکر، روغن‌های نباتی هیدروژنه، شربت اینورت، نشاسته ذرت، شیر خشک، بی‌کربنات سدیم (E500)، آرد سویا، پودر دارچین، نمک تصفیه شده، طعم‌دهنده‌ی مجاز خوراکی وانیل (اتیل وانیلن)، لسیتین سویا (E322) و آب. :: آرد گندم، شکر، روغن‌های نباتی هیدروژنه، شربت اینورت، نشاسته ذرت، شیر خشک، بی‌کربنات سدیم (E500)، آرد سویا، پودر دارچین، نمک تصفیه شده، طعم‌دهنده‌ی مجاز خوراکی وانیل (اتیل وانیلن)، لسیتین سویا (E322) و آب.
+Container > Frame 1618873945 > استاندارد Non-GMO :: استاندارد Non-GMO
+Container > Frame 1618873945 > استاندارد Non-GMO ما بر اساس اظهارنامه تأمین‌کنندگان هر یک از مواد اولیه تعیین شده است. مواد اولیه مورد استفاده در بیسکت، منشأ غیرتراریخته دارند. :: استاندارد Non-GMO ما بر اساس اظهارنامه تأمین‌کنندگان هر یک از مواد اولیه تعیین شده است. مواد اولیه مورد استفاده در بیسکت، منشأ غیرتراریخته دارند. 
+Frame 1618873922 > Frame 1073714946 > خانه :: خانه
+Frame 1618873922 > Frame 1073714946 > درباره‌ی بیسکت :: درباره‌ی بیسکت
+Frame 1618873922 > Frame 1073714946 > محصولات :: محصولات
+Frame 1618873922 > Frame 1073714946 > ارتباط با ما :: ارتباط با ما
+Frame 1618873922 > Frame 1073714946 > رسپی ها :: رسپی ها
+Classic Biskett-200g.FA > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Group 1 > Frame 1618873926 > Biskett A Distinctive Taste :: Biskett\nA Distinctive Taste
+Group 1 > Frame 1618873926 > Biskett is a crisp biscuit with a distinctive taste.  Its unique caramel flavor has driven its popularity across different countries.  Enjoy it at any time of day, alongside tea or coffee. :: Biskett is a crisp biscuit with a distinctive taste.  Its unique caramel flavor has driven its popularity across different countries.  Enjoy it at any time of day, alongside tea or coffee.
+Container > Heading 2 > Available in these packages :: Available in these packages
+Container > Container > Click on each package to view nutritional and allergy information. :: Click on each package to view nutritional and allergy information.
+Frame 1618873776 > Frame 1618873945 > Classic Biskett-100g :: Classic Biskett-100g
+Frame 1618873776 > Frame 1618873945 > Nutrition Information :: Nutrition Information
+Frame 1618873957 > Frame 1618873933 > Calories per piece :: Calories per piece
+Frame 1618873957 > Frame 1618873933 > 150 | 8% :: 150 | 8%
+Frame 1618873957 > Frame 1618873934 > Total fat :: Total fat
+Frame 1618873957 > Frame 1618873934 > 6g | 8% :: 6g | 8%
+Frame 1618873957 > Frame 1618873935 > Saturated Fat :: Saturated Fat
+Frame 1618873957 > Frame 1618873935 > 2.5g | 13% :: 2.5g | 13%
+Frame 1618873957 > Frame 1618873936 > Carbohydrates :: Carbohydrates
+Frame 1618873957 > Frame 1618873936 > 0mg | 0% :: 0mg | 0%
+Frame 1618873957 > Frame 1618873937 > Dietary fiber :: Dietary fiber
+Frame 1618873957 > Frame 1618873937 > 115mg | 5% :: 115mg | 5%
+Frame 1618873957 > Frame 1618873946 > Sugars :: Sugars
+Frame 1618873957 > Frame 1618873946 > 115mg | 5% :: 115mg | 5%
+Frame 1618873957 > Frame 1618873942 > Protein :: Protein
+Frame 1618873957 > Frame 1618873942 > 2g :: 2g
+Frame 1618873957 > Frame 1618873938 > Cholesterol :: Cholesterol
+Frame 1618873957 > Frame 1618873938 > 23g | 8% :: 23g | 8%
+Frame 1618873957 > Frame 1618873939 > Sodium :: Sodium
+Frame 1618873957 > Frame 1618873939 > 0g | 0% :: 0g | 0%
+Frame 1618873957 > Frame 1618873940 > Potassium :: Potassium
+Frame 1618873957 > Frame 1618873940 > 12g :: 12g
+Frame 1618873957 > Frame 1618873941 > Calcium :: Calcium
+Frame 1618873957 > Frame 1618873941 > 22% :: 22%
+Classic Biskett-100g.EN > Container > The % Daily Value (DV) indicates how much a nutrient contributes to a daily diet. Values are based on a 2,000-calorie daily intake. :: The % Daily Value (DV) indicates how much a nutrient contributes to a daily diet. Values are based on a 2,000-calorie daily intake.
+Container > Frame 1618873944 > Compositions :: Compositions
+Container > Frame 1618873944 > Wheat flour, sugar, hydrogenated vegetable oils, invert syrup, corn starch, powdered milk, sodium bicarbonate (E500), soy flour, cinnamon powder, refined salt, permitted edible vanilla flavoring (ethyl vanillin), soy lecithin (E322) and water. :: Wheat flour, sugar, hydrogenated vegetable oils, invert syrup, corn starch, powdered milk, sodium bicarbonate (E500), soy flour, cinnamon powder, refined salt, permitted edible vanilla flavoring (ethyl vanillin), soy lecithin (E322) and water.
+Container > Frame 1618873945 > Non GMO Statement :: Non GMO Statement
+Container > Frame 1618873945 > Our Non-GMO standard is based on supplier declarations for each ingredient. The ingredients used in Biskett are of non-GMO origin. :: Our Non-GMO standard is based on supplier declarations for each ingredient. The ingredients used in Biskett are of non-GMO origin.
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+Classic Biskett-100g.EN > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Group 1 > Frame 1618873926 > Biskett Sandwich Cookies. :: Biskett Sandwich Cookies.
+Group 1 > Frame 1618873926 > The unique taste of Lotus Biskett now comes in a sandwich. Two delicious cookies with a smooth chocolate, vanilla or Biskett cream filling. It’ll be love at first bite! :: The unique taste of Lotus Biskett now comes in a sandwich. Two delicious cookies with a smooth chocolate, vanilla or Biskett cream filling. It’ll be love at first bite!
+Container > Heading 2 > Available in these packages :: Available in these packages
+Container > Container > Click on each package to view nutritional and allergy information. :: Click on each package to view nutritional and allergy information.
+Frame 1618873776 > Frame 1618873945 > Sandwich Cookies :: Sandwich Cookies
+Frame 1618873776 > Frame 1618873945 > Nutrition Information :: Nutrition Information
+Frame 1618873957 > Frame 1618873933 > Calories per piece :: Calories per piece
+Frame 1618873957 > Frame 1618873933 > 150 | 8% :: 150 | 8%
+Frame 1618873957 > Frame 1618873934 > Total fat :: Total fat
+Frame 1618873957 > Frame 1618873934 > 6g | 8% :: 6g | 8%
+Frame 1618873957 > Frame 1618873935 > Saturated Fat :: Saturated Fat
+Frame 1618873957 > Frame 1618873935 > 2.5g | 13% :: 2.5g | 13%
+Frame 1618873957 > Frame 1618873936 > Carbohydrates :: Carbohydrates
+Frame 1618873957 > Frame 1618873936 > 0mg | 0% :: 0mg | 0%
+Frame 1618873957 > Frame 1618873937 > Dietary fiber :: Dietary fiber
+Frame 1618873957 > Frame 1618873937 > 115mg | 5% :: 115mg | 5%
+Frame 1618873957 > Frame 1618873946 > Sugars :: Sugars
+Frame 1618873957 > Frame 1618873946 > 115mg | 5% :: 115mg | 5%
+Frame 1618873957 > Frame 1618873942 > Protein :: Protein
+Frame 1618873957 > Frame 1618873942 > 2g :: 2g
+Frame 1618873957 > Frame 1618873938 > Cholesterol :: Cholesterol
+Frame 1618873957 > Frame 1618873938 > 23g | 8% :: 23g | 8%
+Frame 1618873957 > Frame 1618873939 > Sodium :: Sodium
+Frame 1618873957 > Frame 1618873939 > 0g | 0% :: 0g | 0%
+Frame 1618873957 > Frame 1618873940 > Potassium :: Potassium
+Frame 1618873957 > Frame 1618873940 > 12g :: 12g
+Frame 1618873957 > Frame 1618873941 > Calcium :: Calcium
+Frame 1618873957 > Frame 1618873941 > 22% :: 22%
+Sandwich Cookies.EN > Container > The % Daily Value (DV) indicates how much a nutrient contributes to a daily diet. Values are based on a 2,000-calorie daily intake. :: The % Daily Value (DV) indicates how much a nutrient contributes to a daily diet. Values are based on a 2,000-calorie daily intake.
+Container > Frame 1618873944 > Compositions :: Compositions
+Container > Frame 1618873944 > Wheat flour, sugar, hydrogenated vegetable oils, invert syrup, corn starch, powdered milk, sodium bicarbonate (E500), soy flour, cinnamon powder, refined salt, permitted edible vanilla flavoring (ethyl vanillin), soy lecithin (E322) and water. :: Wheat flour, sugar, hydrogenated vegetable oils, invert syrup, corn starch, powdered milk, sodium bicarbonate (E500), soy flour, cinnamon powder, refined salt, permitted edible vanilla flavoring (ethyl vanillin), soy lecithin (E322) and water.
+Container > Frame 1618873945 > Non GMO Statement :: Non GMO Statement
+Container > Frame 1618873945 > Our Non-GMO standard is based on supplier declarations for each ingredient. The ingredients used in Biskett are of non-GMO origin. :: Our Non-GMO standard is based on supplier declarations for each ingredient. The ingredients used in Biskett are of non-GMO origin.
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+Sandwich Cookies.EN > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Frame 1618873926 > Frame 1618873958 > 3kg Creamy Biskett :: 3kg Creamy Biskett 
+Group 1 > Frame 1618873926 > the bucket biscuit cream product is suitable for the production of all kinds of cakes and dessert, and because of its high weight, it is affordable and a suitable option for use in cafes, bakeries and confectioneries. :: the bucket biscuit cream product is suitable for the production of all kinds of cakes and dessert, and because of its high weight, it is affordable and a suitable option for use in cafes, bakeries and confectioneries.
+Container > Heading 2 > Available in these packages :: Available in these packages
+Container > Container > Click on each package to view nutritional and allergy information. :: Click on each package to view nutritional and allergy information.
+Frame 1618873776 > Frame 1618873945 > 3kg Biskett Cream :: 3kg Biskett Cream
+Frame 1618873776 > Frame 1618873945 > Nutrition Information :: Nutrition Information
+Frame 1618873957 > Frame 1618873933 > Calories per piece :: Calories per piece
+Frame 1618873957 > Frame 1618873933 > 150 | 8% :: 150 | 8%
+Frame 1618873957 > Frame 1618873934 > Total fat :: Total fat
+Frame 1618873957 > Frame 1618873934 > 6g | 8% :: 6g | 8%
+Frame 1618873957 > Frame 1618873935 > Saturated Fat :: Saturated Fat
+Frame 1618873957 > Frame 1618873935 > 2.5g | 13% :: 2.5g | 13%
+Frame 1618873957 > Frame 1618873936 > Carbohydrates :: Carbohydrates
+Frame 1618873957 > Frame 1618873936 > 0mg | 0% :: 0mg | 0%
+Frame 1618873957 > Frame 1618873937 > Dietary fiber :: Dietary fiber
+Frame 1618873957 > Frame 1618873937 > 115mg | 5% :: 115mg | 5%
+Frame 1618873957 > Frame 1618873946 > Sugars :: Sugars
+Frame 1618873957 > Frame 1618873946 > 115mg | 5% :: 115mg | 5%
+Frame 1618873957 > Frame 1618873942 > Protein :: Protein
+Frame 1618873957 > Frame 1618873942 > 2g :: 2g
+Frame 1618873957 > Frame 1618873938 > Cholesterol :: Cholesterol
+Frame 1618873957 > Frame 1618873938 > 23g | 8% :: 23g | 8%
+Frame 1618873957 > Frame 1618873939 > Sodium :: Sodium
+Frame 1618873957 > Frame 1618873939 > 0g | 0% :: 0g | 0%
+Frame 1618873957 > Frame 1618873940 > Potassium :: Potassium
+Frame 1618873957 > Frame 1618873940 > 12g :: 12g
+Frame 1618873957 > Frame 1618873941 > Calcium :: Calcium
+Frame 1618873957 > Frame 1618873941 > 22% :: 22%
+3kg Biskett Cream.EN > Container > The % Daily Value (DV) indicates how much a nutrient contributes to a daily diet. Values are based on a 2,000-calorie daily intake. :: The % Daily Value (DV) indicates how much a nutrient contributes to a daily diet. Values are based on a 2,000-calorie daily intake.
+Container > Frame 1618873944 > Compositions :: Compositions
+Container > Frame 1618873944 > Wheat flour, sugar, hydrogenated vegetable oils, invert syrup, corn starch, powdered milk, sodium bicarbonate (E500), soy flour, cinnamon powder, refined salt, permitted edible vanilla flavoring (ethyl vanillin), soy lecithin (E322) and water. :: Wheat flour, sugar, hydrogenated vegetable oils, invert syrup, corn starch, powdered milk, sodium bicarbonate (E500), soy flour, cinnamon powder, refined salt, permitted edible vanilla flavoring (ethyl vanillin), soy lecithin (E322) and water.
+Container > Frame 1618873945 > Non GMO Statement :: Non GMO Statement
+Container > Frame 1618873945 > Our Non-GMO standard is based on supplier declarations for each ingredient. The ingredients used in Biskett are of non-GMO origin. :: Our Non-GMO standard is based on supplier declarations for each ingredient. The ingredients used in Biskett are of non-GMO origin.
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+3kg Biskett Cream.EN > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Group 1 > Frame 1618873926 > Biskett Cookie Butter :: Biskett Cookie Butter
+Group 1 > Frame 1618873926 > Biskett cookie butter has a unique and surprising taste that brings variety to your table, whenever you enjoy a slice of bread or toast. Made with non-GMO ingredients, it is vegan friendly and contains no artificial colors, no flavors, and no preservatives. :: Biskett cookie butter has a unique and surprising taste that brings variety to your table, whenever you enjoy a slice of bread or toast. Made with non-GMO ingredients, it is vegan friendly and contains no artificial colors, no flavors, and no preservatives.
+Container > Heading 2 > Available in these packages :: Available in these packages
+Container > Container > Click on each package to view nutritional and allergy information. :: Click on each package to view nutritional and allergy information.
+Frame 1618873776 > Frame 1618873945 > 400g Biskett Cream :: 400g Biskett Cream
+Frame 1618873776 > Frame 1618873945 > Nutrition Information :: Nutrition Information
+Frame 1618873957 > Frame 1618873933 > Calories per piece :: Calories per piece
+Frame 1618873957 > Frame 1618873933 > 150 | 8% :: 150 | 8%
+Frame 1618873957 > Frame 1618873934 > Total fat :: Total fat
+Frame 1618873957 > Frame 1618873934 > 6g | 8% :: 6g | 8%
+Frame 1618873957 > Frame 1618873935 > Saturated Fat :: Saturated Fat
+Frame 1618873957 > Frame 1618873935 > 2.5g | 13% :: 2.5g | 13%
+Frame 1618873957 > Frame 1618873936 > Carbohydrates :: Carbohydrates
+Frame 1618873957 > Frame 1618873936 > 0mg | 0% :: 0mg | 0%
+Frame 1618873957 > Frame 1618873937 > Dietary fiber :: Dietary fiber
+Frame 1618873957 > Frame 1618873937 > 115mg | 5% :: 115mg | 5%
+Frame 1618873957 > Frame 1618873946 > Sugars :: Sugars
+Frame 1618873957 > Frame 1618873946 > 115mg | 5% :: 115mg | 5%
+Frame 1618873957 > Frame 1618873942 > Protein :: Protein
+Frame 1618873957 > Frame 1618873942 > 2g :: 2g
+Frame 1618873957 > Frame 1618873938 > Cholesterol :: Cholesterol
+Frame 1618873957 > Frame 1618873938 > 23g | 8% :: 23g | 8%
+Frame 1618873957 > Frame 1618873939 > Sodium :: Sodium
+Frame 1618873957 > Frame 1618873939 > 0g | 0% :: 0g | 0%
+Frame 1618873957 > Frame 1618873940 > Potassium :: Potassium
+Frame 1618873957 > Frame 1618873940 > 12g :: 12g
+Frame 1618873957 > Frame 1618873941 > Calcium :: Calcium
+Frame 1618873957 > Frame 1618873941 > 22% :: 22%
+400g Biskett Cream.EN > Container > The % Daily Value (DV) indicates how much a nutrient contributes to a daily diet. Values are based on a 2,000-calorie daily intake. :: The % Daily Value (DV) indicates how much a nutrient contributes to a daily diet. Values are based on a 2,000-calorie daily intake.
+Container > Frame 1618873944 > Compositions :: Compositions
+Container > Frame 1618873944 > Wheat flour, sugar, hydrogenated vegetable oils, invert syrup, corn starch, powdered milk, sodium bicarbonate (E500), soy flour, cinnamon powder, refined salt, permitted edible vanilla flavoring (ethyl vanillin), soy lecithin (E322) and water. :: Wheat flour, sugar, hydrogenated vegetable oils, invert syrup, corn starch, powdered milk, sodium bicarbonate (E500), soy flour, cinnamon powder, refined salt, permitted edible vanilla flavoring (ethyl vanillin), soy lecithin (E322) and water.
+Container > Frame 1618873945 > Non GMO Statement :: Non GMO Statement
+Container > Frame 1618873945 > Our Non-GMO standard is based on supplier declarations for each ingredient. The ingredients used in Biskett are of non-GMO origin. :: Our Non-GMO standard is based on supplier declarations for each ingredient. The ingredients used in Biskett are of non-GMO origin.
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+400g Biskett Cream.EN > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Frame 1618873778 > Frame 47 > Biskett cookie 200g :: Biskett cookie 200g
+Frame 47 > Frame 1618873933 > Calories per serving :: Calories per serving
+Frame 47 > Frame 1618873933 > 150 | 8% :: 150 | 8%
+Frame 47 > Frame 1618873934 > Total Fat :: Total Fat
+Frame 47 > Frame 1618873934 > 6g | 8% :: 6g | 8%
+Frame 47 > Frame 1618873935 > Saturated Fat :: Saturated Fat
+Frame 47 > Frame 1618873935 > 2.5g | 13% :: 2.5g | 13%
+Frame 47 > Frame 1618873936 > Cholesterol :: Cholesterol
+Frame 47 > Frame 1618873936 > 0mg | 0% :: 0mg | 0%
+Frame 47 > Frame 1618873937 > Sodium :: Sodium
+Frame 47 > Frame 1618873937 > 115mg | 5% :: 115mg | 5%
+Frame 47 > Frame 1618873938 > Total Carbohydrate :: Total Carbohydrate
+Frame 47 > Frame 1618873938 > 23g | 8% :: 23g | 8%
+Frame 47 > Frame 1618873939 > Dietary Fiber :: Dietary Fiber
+Frame 47 > Frame 1618873939 > 0g | 0% :: 0g | 0%
+Frame 47 > Frame 1618873940 > Total Sugars :: Total Sugars
+Frame 47 > Frame 1618873940 > 12g :: 12g
+Frame 47 > Frame 1618873941 > Includes 11g Added Sugars :: Includes 11g Added Sugars
+Frame 47 > Frame 1618873941 > 22% :: 22%
+Frame 47 > Frame 1618873942 > Protein :: Protein
+Frame 47 > Frame 1618873942 > 2g :: 2g
+Frame 47 > Frame 1618873943 > Vitamin D :: Vitamin D
+Frame 47 > Frame 1618873943 > 0mcg | 0% :: 0mcg | 0%
+Frame 1618873778 > Frame 47 > Biskett cookie 200g :: Biskett cookie 200g
+Frame 47 > Frame 1618873933 > Egg :: Egg
+Frame 47 > Frame 1618873934 > Gluten :: Gluten
+Frame 47 > Frame 1618873935 > Milk :: Milk
+Frame 47 > Frame 1618873936 > Nuts :: Nuts
+Frame 47 > Frame 1618873937 > Shellfish :: Shellfish
+Frame 47 > Frame 1618873938 > Soy :: Soy
+Frame 47 > Frame 1618873939 > Lupine :: Lupine
+Frame 47 > Frame 1618873940 > Celery :: Celery
+Frame 47 > Frame 1618873941 > Sulfite :: Sulfite
+Frame 47 > Frame 1618873942 > Molluscs :: Molluscs
+Frame 47 > Frame 1618873943 > Present :: Present
+Property 1=Frame 1618873947 > Frame 1618873960 > Packaging Information :: Packaging Information
+Property 1=Frame 1618873947 > Frame 1618873960 > Carton details and models for professional shipping and distribution :: Carton details and models for professional shipping and distribution
+Group 1000004478 > design > 200gr x 10 :: 200gr x 10
+200 Gr > Property 1=Frame 1618873946 > Packaging Information :: Packaging Information
+200 Gr > Property 1=Frame 1618873946 > Carton details and models for professional shipping and distribution :: Carton details and models for professional shipping and distribution
+Group 1000004478 > design > 4 boxes x 10 packs :: 4 boxes x 10 packs
+100 Gr > Property 1=Frame 1618873947 > Packaging Information :: Packaging Information
+100 Gr > Property 1=Frame 1618873947 > Carton details and models for professional shipping and distribution :: Carton details and models for professional shipping and distribution
+Group 1000004478 > design > 100gr x 20 :: 100gr x 20
+100 Gr > Property 1=Frame 1618873946 > Packaging Information :: Packaging Information
+100 Gr > Property 1=Frame 1618873946 > Carton details and models for professional shipping and distribution :: Carton details and models for professional shipping and distribution
+Group 1000004478 > design > 4 boxes x 20 packs :: 4 boxes x 20 packs
+100 Gr > Property 1=Frame 1618873947 > Packaging Information :: Packaging Information
+100 Gr > Property 1=Frame 1618873947 > Carton details and models for professional shipping and distribution :: Carton details and models for professional shipping and distribution
+Group 1000004478 > design > 150gr x 9 :: 150gr x 9
+100 Gr > Property 1=Frame 1618873946 > Packaging Information :: Packaging Information
+100 Gr > Property 1=Frame 1618873946 > Carton details and models for professional shipping and distribution :: Carton details and models for professional shipping and distribution
+Group 1000004478 > design > 4 boxes x 9 packs :: 4 boxes x 9 packs
+400 Gr > Property 1=Frame 1618873947 > Packaging Information :: Packaging Information
+400 Gr > Property 1=Frame 1618873947 > Carton details and models for professional shipping and distribution :: Carton details and models for professional shipping and distribution
+Group 1000004478 > design > 400gr x 6 :: 400gr x 6
+400 Gr > Property 1=Frame 1618873946 > Packaging Information :: Packaging Information
+400 Gr > Property 1=Frame 1618873946 > Carton details and models for professional shipping and distribution :: Carton details and models for professional shipping and distribution
+Group 1000004478 > design > 4 packs x 6 cans :: 4 packs x 6 cans
+3 Kg > Property 1=Frame 1618873946 > Packaging Information :: Packaging Information
+3 Kg > Property 1=Frame 1618873946 > Carton details and models for professional shipping and distribution :: Carton details and models for professional shipping and distribution
+Group 1000004478 > design > 4 packs x 6 cans :: 4 packs x 6 cans
+Frame 1618873928 > Frame 1618873926 > Biskett A Distinctive Taste :: Biskett\nA Distinctive Taste
+Frame 1618873928 > Frame 1618873926 > Biskett is a crisp biscuit with a distinctive taste. Its unique caramel flavor has driven its popularity across different countries. Enjoy it at any time of day, alongside tea or coffee. :: Biskett is a crisp biscuit with a distinctive taste. Its unique caramel flavor has driven its popularity across different countries. Enjoy it at any time of day, alongside tea or coffee.
+Container > Heading 2 > Available in these packages :: Available in these packages
+Container > Container > Click on each package to view nutritional and allergy information. :: Click on each package to view nutritional and allergy information.
+Container > Button > Nutritional :: Nutritional
+Container > Heading 2 > Classic Biskett-200g :: Classic Biskett-200g
+Container > Heading 2 > Nutrition Information :: Nutrition Information
+Frame 1618873956 > Frame 1618873933 > Calories per piece :: Calories per piece
+Frame 1618873956 > Frame 1618873933 > 150 | 8% :: 150 | 8%
+Frame 1618873956 > Frame 1618873934 > Total fat :: Total fat
+Frame 1618873956 > Frame 1618873934 > 6g | 8% :: 6g | 8%
+Frame 1618873956 > Frame 1618873935 > Saturated Fat :: Saturated Fat
+Frame 1618873956 > Frame 1618873935 > 2.5g | 13% :: 2.5g | 13%
+Frame 1618873956 > Frame 1618873936 > Carbohydrates :: Carbohydrates
+Frame 1618873956 > Frame 1618873936 > 0mg | 0% :: 0mg | 0%
+Frame 1618873956 > Frame 1618873937 > Dietary fiber :: Dietary fiber
+Frame 1618873956 > Frame 1618873937 > 115mg | 5% :: 115mg | 5%
+Frame 1618873956 > Frame 1618873946 > Sugars :: Sugars
+Frame 1618873956 > Frame 1618873946 > 115mg | 5% :: 115mg | 5%
+Frame 1618873956 > Frame 1618873942 > Protein :: Protein
+Frame 1618873956 > Frame 1618873942 > 2g :: 2g
+Frame 1618873956 > Frame 1618873938 > Cholesterol :: Cholesterol
+Frame 1618873956 > Frame 1618873938 > 23g | 8% :: 23g | 8%
+Frame 1618873956 > Frame 1618873939 > Sodium :: Sodium
+Frame 1618873956 > Frame 1618873939 > 0g | 0% :: 0g | 0%
+Frame 1618873956 > Frame 1618873940 > Potassium :: Potassium
+Frame 1618873956 > Frame 1618873940 > 12g :: 12g
+Frame 1618873956 > Frame 1618873941 > Calcium :: Calcium
+Frame 1618873956 > Frame 1618873941 > 22% :: 22%
+Container > Container > The % Daily Value (DV) indicates how much a nutrient contributes to a daily diet. Values are based on a 2,000-calorie daily intake. :: The % Daily Value (DV) indicates how much a nutrient contributes to a daily diet. Values are based on a 2,000-calorie daily intake.
+PRODUCTS.MOBILE > Button > Allergy :: Allergy
+PRODUCTS.MOBILE > 200 Gr > Packaging Information :: Packaging Information
+PRODUCTS.MOBILE > 200 Gr > Carton details and models for professional shipping and distribution :: Carton details and models for professional shipping and distribution
+Group 1000004478 > design > 200gr x 10 :: 200gr x 10
+Container > Heading 2 > Compositions :: Compositions
+Container > Container > Wheat flour, sugar, hydrogenated vegetable oils, invert syrup, corn starch, powdered milk, sodium bicarbonate (E500), soy flour, cinnamon powder, refined salt, permitted edible vanilla flavoring (ethyl vanillin), soy lecithin (E322) and water. :: Wheat flour, sugar, hydrogenated vegetable oils, invert syrup, corn starch, powdered milk, sodium bicarbonate (E500), soy flour, cinnamon powder, refined salt, permitted edible vanilla flavoring (ethyl vanillin), soy lecithin (E322) and water.
+Container > Heading 2 > Non GMO Statement :: Non GMO Statement
+Container > Container > Our Non-GMO standard is based on supplier declarations for each ingredient. The ingredients used in Biskett are of non-GMO origin. :: Our Non-GMO standard is based on supplier declarations for each ingredient. The ingredients used in Biskett are of non-GMO origin.
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+Frame 1618873922 > Group 58 > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Frame 1618873926 > Frame 1618873946 > Truffles with Biskett :: Truffles with Biskett
+Frame 1618873946 > Frame 1618873945 > 60 minutes prepare in 7 steps :: 60 minutes prepare in 7 steps
+Frame 1618873926 > Frame 1618873946 > Surprise your customers with these unique Biscuit truffles, where Biscoff combines with white chocolate for pure indulgence. :: Surprise your customers with these unique Biscuit truffles, where Biscoff combines with white chocolate for pure indulgence.
+Frame 47 > Frame 1618873933 > Biskett cookies :: Biskett cookies
+Frame 47 > Frame 1618873933 > 32 (220 g) :: 32 (220 g)
+Frame 47 > Frame 1618873934 > cream cheese :: cream cheese
+Frame 47 > Frame 1618873934 > 40 g :: 40 g
+Frame 47 > Frame 1618873935 > Biskett spread :: Biskett spread
+Frame 47 > Frame 1618873935 > 20 g :: 20 g
+Frame 47 > Frame 1618873936 > milk :: milk
+Frame 47 > Frame 1618873936 > 2 tbsp :: 2 tbsp
+Frame 47 > Frame 1618873937 > white chocolate :: white chocolate
+Frame 47 > Frame 1618873937 > 250 g :: 250 g
+Frame 47 > Frame 1618873938 > Topping: :: Topping:
+Frame 47 > Frame 1618873939 > freeze dried raspberries, crumbed :: freeze dried raspberries, crumbed
+Frame 47 > Frame 1618873939 > 4-5 H :: 4-5 H
+Frame 47 > Frame 1618873940 > Biskett spread :: Biskett spread
+Group 48 > Frame 1618873947 > Play recipes video :: Play recipes video
+Container > Container > Discover more recipes :: Discover more recipes
+Group 1 > Frame 2 > Heart Shaped cake with Biskett :: Heart Shaped cake with Biskett
+Group 1 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 1 > Frame 2 > This delicious heart-shaped cake, full of love and Biskett can brighten your day! :: This delicious heart-shaped cake, full of love and Biskett can brighten your day!
+Group 39 > Frame 2 > Hot Biskett milk :: Hot Biskett \nmilk
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Group 39 > Frame 2 > We all know the classic hot chocolate, but here's a Biskett version: delicious and hearty! :: We all know the classic hot chocolate, but here's a Biskett version: delicious and hearty!
+Group 38 > Frame 2 > Swiss roll with Biskett :: Swiss roll with Biskett
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 38 > Frame 2 > A traditional swiss roll with a biskett twist: it’s rich, tender and sweet – and it will be the talk of any party! :: A traditional swiss roll with a biskett twist: it’s rich, tender and sweet – and it will be the talk of any party!
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+INGREDIENTS.EN > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Frame 1618873926 > Frame 1618873946 > ترافل بیسکت :: ترافل بیسکت
+Frame 1618873946 > Frame 1618873945 > ۶۰ دقیقه · آماده‌سازی در ۷ مرحله :: ۶۰ دقیقه · آماده‌سازی در ۷ مرحله
+Frame 1618873926 > Frame 1618873946 > مهمانان خود را با این ترافل‌های بیسکویتی خاص شگفت‌زده کنید؛ جایی که بیسکت با شکلات سفید ترکیب می‌شود و طعمی لوکس و لذت‌بخش می‌سازد. :: مهمانان خود را با این ترافل‌های بیسکویتی خاص شگفت‌زده کنید؛ جایی که بیسکت با شکلات سفید ترکیب می‌شود و طعمی لوکس و لذت‌بخش می‌سازد.
+Container > Button > آماده‌سازی در ۷ مرحله :: آماده‌سازی در ۷ مرحله
+Container > Button > مواد لازم :: مواد لازم
+Frame 47 > Frame 1618873933 > ۳۲ عدد (۲۲۰ گرم) :: ۳۲ عدد (۲۲۰ گرم)
+Frame 47 > Frame 1618873933 > بیسکویت بیسکت :: بیسکویت بیسکت
+Frame 47 > Frame 1618873934 > ۴۰ گرم :: ۴۰ گرم
+Frame 47 > Frame 1618873934 > پنیر خامه‌ای :: پنیر خامه‌ای
+Frame 47 > Frame 1618873935 > ۲۰ گرم :: ۲۰ گرم
+Frame 47 > Frame 1618873935 > کرم بیسکت :: کرم بیسکت
+Frame 47 > Frame 1618873936 > ۲ قاشق غذاخوری :: ۲ قاشق غذاخوری
+Frame 47 > Frame 1618873936 > شیر :: شیر
+Frame 47 > Frame 1618873937 > ۲۵۰ گرم :: ۲۵۰ گرم
+Frame 47 > Frame 1618873937 > شکلات سفید :: شکلات سفید
+Frame 47 > Frame 1618873938 > تزئین: :: تزئین:
+Frame 47 > Frame 1618873939 > ۴ تا ۵ عدد :: ۴ تا ۵ عدد
+Frame 47 > Frame 1618873939 > تمشک فریزدرای خردشده :: تمشک فریزدرای خردشده
+Frame 47 > Frame 1618873940 > کرم بیسکت :: کرم بیسکت
+Group 48 > Frame 1618873947 > پخش ویدیوی دستور پخت :: پخش ویدیوی دستور پخت
+Container > Container > مشاهده دستورهای بیشتر :: مشاهده دستورهای بیشتر
+Group 1 > Frame 2 > کیک قلبی بیسکت :: کیک قلبی بیسکت
+Group 1 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 1 > Frame 2 > کیکی لطیف و دوست‌داشتنی با طعم بیسکت. :: کیکی لطیف و دوست‌داشتنی با طعم بیسکت.
+Frame 2 > Button > مشاهده دستور پخت :: مشاهده دستور پخت
+Group 39 > Frame 2 > شیر داغ بیسکت :: شیر داغ بیسکت
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Group 39 > Frame 2 > نسخه‌ای خاص از نوشیدنی گرم و خوشمزه. :: نسخه‌ای خاص از نوشیدنی گرم و خوشمزه.
+Frame 2 > Button > مشاهده دستور پخت :: مشاهده دستور پخت
+Group 38 > Frame 2 > رولت بیسکت :: رولت بیسکت
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 38 > Frame 2 > طعمی غنی و کرمی لطیف که در هر مهمانی توجه‌ها را جلب می‌کند. :: طعمی غنی و کرمی لطیف که در هر مهمانی توجه‌ها را جلب می‌کند.
+Frame 2 > Button > مشاهده دستور پخت :: مشاهده دستور پخت
+Frame 1618873922 > Frame 1073714946 > خانه :: خانه
+Frame 1618873922 > Frame 1073714946 > درباره‌ی بیسکت :: درباره‌ی بیسکت
+Frame 1618873922 > Frame 1073714946 > محصولات :: محصولات
+Frame 1618873922 > Frame 1073714946 > ارتباط با ما :: ارتباط با ما
+Frame 1618873922 > Frame 1073714946 > رسپی ها :: رسپی ها
+INGREDIENTS.FA > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Frame 1618873926 > Frame 1618873946 > Biskett A kitchen delight :: Biskett A kitchen delight
+Frame 1618873926 > Frame 1618873946 > Did you know that the unique flavor of Biskett pairs well with many recipes? Discover how it can add unexpected flavor to the most beautiful desserts. :: Did you know that the unique flavor of Biskett pairs well with many recipes? Discover how it can add unexpected flavor to the most beautiful desserts.
+Group 1 > Frame 2 > Heart Shaped cake with Biskett :: Heart Shaped cake with Biskett
+Group 1 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 1 > Frame 2 > This delicious heart-shaped cake, full of love and Biskett can brighten your day! :: This delicious heart-shaped cake, full of love and Biskett can brighten your day!
+Group 39 > Frame 2 > Hot Biskett milk :: Hot Biskett \nmilk
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Group 39 > Frame 2 > We all know the classic hot chocolate, but here's a Biskett version: delicious and hearty! :: We all know the classic hot chocolate, but here's a Biskett version: delicious and hearty!
+Group 38 > Frame 2 > Truffles with Biskett :: Truffles with Biskett
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 38 > Frame 2 > With these unique biscuit truffles, Biskett cream is combined with white chocolate for pure delight. :: With these unique biscuit truffles, Biskett cream is combined with white chocolate for pure delight.
+Group 1 > Frame 2 > Biskett bundt cake :: Biskett bundt \ncake
+Group 1 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 1 > Frame 2 > This beautiful bundt cake will get everyone’s attention during the holiday season. :: This beautiful bundt cake will get everyone’s attention during the holiday season.
+Group 39 > Frame 2 > CHOCOLATE AND BISkett MOUSSE :: CHOCOLATE AND BISkett MOUSSE
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Group 39 > Frame 2 > Give a new twist to an old classic and create a completely mouthwatering dessert. :: Give a new twist to an old classic and create a completely mouthwatering dessert.
+Group 38 > Frame 2 > Swiss roll with Biskett :: Swiss roll with Biskett
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 38 > Frame 2 > A traditional swiss roll with a biskett twist: it’s rich, tender and sweet – and it will be the talk of any party! :: A traditional swiss roll with a biskett twist: it’s rich, tender and sweet – and it will be the talk of any party!
+Frame 1618873950 > Frame 1618873948 > last :: last
+Frame 1618873950 > Frame 1618873951 > 1 :: 1
+Frame 1618873950 > Frame 1618873949 > 2 :: 2
+Frame 1618873950 > Frame 1618873950 > 3 :: 3
+Frame 1618873950 > Frame 1618873952 > next :: next
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+RECIPES.EN > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Frame 1618873926 > Frame 1618873946 > بـــیــسکت لذت در آشپزخانه :: بـــیــسکت\nلذت در آشپزخانه
+Frame 1618873926 > Frame 1618873946 > آیا می‌دانستید طعم منحصربه‌فرد بیسکت با دستورهای غذایی متنوعی هماهنگی فوق‌العاده‌ای دارد؟ کشف کنید چگونه بیسکت می‌تواند طعمی متفاوت و جذاب به زیباترین دسرها اضافه کند! :: آیا می‌دانستید طعم منحصربه‌فرد بیسکت با دستورهای غذایی متنوعی هماهنگی فوق‌العاده‌ای دارد؟ کشف کنید چگونه بیسکت می‌تواند طعمی متفاوت و جذاب به زیباترین دسرها اضافه کند!
+Group 1 > Frame 2 > کیک قلبی بیسکت :: کیک قلبی بیسکت
+Group 1 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 1 > Frame 2 > کیکی لطیف و دوست‌داشتنی با طعم بیسکت. :: کیکی لطیف و دوست‌داشتنی با طعم بیسکت.
+Frame 2 > Button > مشاهده دستور پخت :: مشاهده دستور پخت
+Group 39 > Frame 2 > شیر داغ بیسکت :: شیر داغ بیسکت
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Group 39 > Frame 2 > نسخه‌ای خاص از نوشیدنی گرم و خوشمزه. :: نسخه‌ای خاص از نوشیدنی گرم و خوشمزه.
+Frame 2 > Button > مشاهده دستور پخت :: مشاهده دستور پخت
+Group 38 > Frame 2 > ترافل بیسکت :: ترافل بیسکت
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 38 > Frame 2 > در این ترافل‌های خاص، کرم بیسکت با شکلات سفید ترکیب شده. :: در این ترافل‌های خاص، کرم بیسکت با شکلات سفید ترکیب شده.
+Frame 2 > Button > مشاهده دستور پخت :: مشاهده دستور پخت
+Group 1 > Frame 2 > کیک باندت بیسکت :: کیک باندت بیسکت
+Group 1 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 1 > Frame 2 > این کیک باندت زیبا، در فصل تعطیلات توجه همه را به خود جلب می‌کند. :: این کیک باندت زیبا، در فصل تعطیلات توجه همه را به خود جلب می‌کند.
+Frame 2 > Button > مشاهده دستور پخت :: مشاهده دستور پخت
+Group 39 > Frame 2 > موس شکلات بیسکت :: موس شکلات بیسکت
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Group 39 > Frame 2 > یک دسر کلاسیک با طعمی متفاوت، کاملاً وسوسه‌انگیز. :: یک دسر کلاسیک با طعمی متفاوت، کاملاً وسوسه‌انگیز.
+Frame 2 > Button > مشاهده دستور پخت :: مشاهده دستور پخت
+Group 38 > Frame 2 > رولت بیسکت :: رولت بیسکت
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 38 > Frame 2 > طعمی غنی و کرمی لطیف که در هر مهمانی توجه‌ها را جلب می‌کند. :: طعمی غنی و کرمی لطیف که در هر مهمانی توجه‌ها را جلب می‌کند.
+Frame 2 > Button > مشاهده دستور پخت :: مشاهده دستور پخت
+Frame 1618873950 > Frame 1618873952 > بعدی :: بعدی
+Frame 1618873950 > Frame 1618873950 > 3 :: 3
+Frame 1618873950 > Frame 1618873949 > 2 :: 2
+Frame 1618873950 > Frame 1618873951 > 1 :: 1
+Frame 1618873950 > Frame 1618873948 > قبلی :: قبلی
+Frame 1618873922 > Frame 1073714946 > خانه :: خانه
+Frame 1618873922 > Frame 1073714946 > درباره‌ی بیسکت :: درباره‌ی بیسکت
+Frame 1618873922 > Frame 1073714946 > محصولات :: محصولات
+Frame 1618873922 > Frame 1073714946 > ارتباط با ما :: ارتباط با ما
+Frame 1618873922 > Frame 1073714946 > رسپی ها :: رسپی ها
+RECIPES.FA > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Frame 1618873926 > Frame 1618873946 > Truffles with Biskett :: Truffles with Biskett
+Frame 1618873946 > Frame 1618873945 > 60 minutes prepare in 7 steps :: 60 minutes prepare in 7 steps
+Frame 1618873926 > Frame 1618873946 > Surprise your customers with these unique Biscuit truffles, where Biscoff combines with white chocolate for pure indulgence. :: Surprise your customers with these unique Biscuit truffles, where Biscoff combines with white chocolate for pure indulgence.
+Frame 47 > Frame 1618873933 > 1 :: 1
+Frame 47 > Frame 1618873933 > Place the Biskett cookies in a food processor and blend until they have a fine sand like consistency. :: Place the Biskett cookies in a food processor and blend until they have a fine sand like consistency.
+Frame 47 > Frame 1618873934 > 2 :: 2
+Frame 47 > Frame 1618873934 > Add the cream cheese and Biskett spread and pulse until blended. Slowly add the milk, one tablespoon at a time, until the dough comes together.  :: Add the cream cheese and Biskett spread and pulse until blended. Slowly add the milk, one tablespoon at a time, until the dough comes together. 
+Frame 47 > Frame 1618873935 > 3 :: 3
+Frame 47 > Frame 1618873935 > Transfer to a bowl and place in the refrigerator for 30 minutes. :: Transfer to a bowl and place in the refrigerator for 30 minutes.
+Frame 47 > Frame 1618873936 > 4 :: 4
+Frame 47 > Frame 1618873936 > Line a baking sheet with wax paper or parchment paper. Take the chilled dough and form into balls.  :: Line a baking sheet with wax paper or parchment paper. Take the chilled dough and form into balls. 
+Frame 47 > Frame 1618873937 > 5 :: 5
+Frame 47 > Frame 1618873937 > Put them on the baking sheet and place in the refrigerator for another 10 minutes. :: Put them on the baking sheet and place in the refrigerator for another 10 minutes.
+Frame 47 > Frame 1618873938 > 6 :: 6
+Frame 47 > Frame 1618873938 > Melt and temper white chocolate au bain marie. Dip the balls in the melted chocolate and return them to the baking sheet.  :: Melt and temper white chocolate au bain marie. Dip the balls in the melted chocolate and return them to the baking sheet. 
+Frame 47 > Frame 1618873939 > 7 :: 7
+Frame 47 > Frame 1618873939 > Decorate with melted Biskett spread and sprinkle crumbled freeze dried raspberries op top. :: Decorate with melted Biskett spread and sprinkle crumbled freeze dried raspberries op top.
+Group 48 > Frame 1618873947 > Play recipes video :: Play recipes video
+Container > Container > Discover more recipes :: Discover more recipes
+Group 1 > Frame 2 > Heart Shaped cake with Biskett :: Heart Shaped cake with Biskett
+Group 1 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 1 > Frame 2 > This delicious heart-shaped cake, full of love and Biskett can brighten your day! :: This delicious heart-shaped cake, full of love and Biskett can brighten your day!
+Group 39 > Frame 2 > Hot Biskett milk :: Hot Biskett \nmilk
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Group 39 > Frame 2 > We all know the classic hot chocolate, but here's a Biskett version: delicious and hearty! :: We all know the classic hot chocolate, but here's a Biskett version: delicious and hearty!
+Group 38 > Frame 2 > Swiss roll with Biskett :: Swiss roll with Biskett
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 38 > Frame 2 > A traditional swiss roll with a biskett twist: it’s rich, tender and sweet – and it will be the talk of any party! :: A traditional swiss roll with a biskett twist: it’s rich, tender and sweet – and it will be the talk of any party!
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+STEP.EN > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Frame 1618873926 > Frame 1618873946 > ترافل بیسکت :: ترافل بیسکت
+Frame 1618873946 > Frame 1618873945 > ۶۰ دقیقه · آماده‌سازی در ۷ مرحله :: ۶۰ دقیقه · آماده‌سازی در ۷ مرحله
+Frame 1618873926 > Frame 1618873946 > مهمانان خود را با این ترافل‌های بیسکویتی خاص شگفت‌زده کنید؛ جایی که بیسکت با شکلات سفید ترکیب می‌شود و طعمی لوکس و لذت‌بخش می‌سازد. :: مهمانان خود را با این ترافل‌های بیسکویتی خاص شگفت‌زده کنید؛ جایی که بیسکت با شکلات سفید ترکیب می‌شود و طعمی لوکس و لذت‌بخش می‌سازد.
+Container > Button > آماده‌سازی در ۷ مرحله :: آماده‌سازی در ۷ مرحله
+Container > Button > مواد لازم :: مواد لازم
+Frame 47 > Frame 1618873933 > بیسکویت‌های بیسکت را داخل غذاساز بریزید و آن‌قدر مخلوط کنید تا بافتی شبیه شن نرم پیدا کنند. :: بیسکویت‌های بیسکت را داخل غذاساز بریزید و آن‌قدر مخلوط کنید تا بافتی شبیه شن نرم پیدا کنند.
+Frame 47 > Frame 1618873933 > 1 :: 1
+Frame 47 > Frame 1618873934 > پنیر خامه‌ای و کرم بیسکت را اضافه کنید و مخلوط کنید تا یکدست شود. سپس شیر را کم‌کم، هر بار یک قاشق غذاخوری اضافه کنید تا خمیر شکل بگیرد. :: پنیر خامه‌ای و کرم بیسکت را اضافه کنید و مخلوط کنید تا یکدست شود. سپس شیر را کم‌کم، هر بار یک قاشق غذاخوری اضافه کنید تا خمیر شکل بگیرد.
+Frame 47 > Frame 1618873934 > 2 :: 2
+Frame 47 > Frame 1618873935 > مواد را به یک کاسه منتقل کرده و به مدت ۱۰ دقیقه در یخچال قرار دهید. :: مواد را به یک کاسه منتقل کرده و به مدت ۱۰ دقیقه در یخچال قرار دهید.
+Frame 47 > Frame 1618873935 > 3 :: 3
+Frame 47 > Frame 1618873936 > سینی را با کاغذ روغنی بپوشانید. خمیر سردشده را برداشته و به صورت گلوله‌های کوچک درآورید. :: سینی را با کاغذ روغنی بپوشانید. خمیر سردشده را برداشته و به صورت گلوله‌های کوچک درآورید.
+Frame 47 > Frame 1618873936 > 4 :: 4
+Frame 47 > Frame 1618873937 > گلوله‌ها را روی سینی بچینید و دوباره به مدت ۱۰ دقیقه در یخچال قرار دهید. :: گلوله‌ها را روی سینی بچینید و دوباره به مدت ۱۰ دقیقه در یخچال قرار دهید.
+Frame 47 > Frame 1618873937 > 5 :: 5
+Frame 47 > Frame 1618873938 > شکلات سفید را به روش بن‌ماری ذوب و تمپر کنید. سپس گلوله‌ها را داخل شکلات ذوب‌شده فرو ببرید و دوباره روی سینی قرار دهید. :: شکلات سفید را به روش بن‌ماری ذوب و تمپر کنید. سپس گلوله‌ها را داخل شکلات ذوب‌شده فرو ببرید و دوباره روی سینی قرار دهید.
+Frame 47 > Frame 1618873938 > 6 :: 6
+Frame 47 > Frame 1618873939 > روی ترافل‌ها کرم بیسکت ذوب‌شده بریزید و تمشک فریزدرای خردشده روی آن بپاشید. :: روی ترافل‌ها کرم بیسکت ذوب‌شده بریزید و تمشک فریزدرای خردشده روی آن بپاشید.
+Frame 47 > Frame 1618873939 > 7 :: 7
+Group 49 > Frame 1618873947 > پخش ویدیوی دستور پخت :: پخش ویدیوی دستور پخت
+Container > Container > مشاهده دستورهای بیشتر :: مشاهده دستورهای بیشتر
+Group 1 > Frame 2 > کیک قلبی بیسکت :: کیک قلبی بیسکت
+Group 1 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 1 > Frame 2 > کیکی لطیف و دوست‌داشتنی با طعم بیسکت. :: کیکی لطیف و دوست‌داشتنی با طعم بیسکت.
+Frame 2 > Button > مشاهده دستور پخت :: مشاهده دستور پخت
+Group 39 > Frame 2 > شیر داغ بیسکت :: شیر داغ بیسکت
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Group 39 > Frame 2 > نسخه‌ای خاص از نوشیدنی گرم و خوشمزه. :: نسخه‌ای خاص از نوشیدنی گرم و خوشمزه.
+Frame 2 > Button > مشاهده دستور پخت :: مشاهده دستور پخت
+Group 38 > Frame 2 > رولت بیسکت :: رولت بیسکت
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 38 > Frame 2 > طعمی غنی و کرمی لطیف که در هر مهمانی توجه‌ها را جلب می‌کند. :: طعمی غنی و کرمی لطیف که در هر مهمانی توجه‌ها را جلب می‌کند.
+Frame 2 > Button > مشاهده دستور پخت :: مشاهده دستور پخت
+Frame 1618873922 > Frame 1073714946 > خانه :: خانه
+Frame 1618873922 > Frame 1073714946 > درباره‌ی بیسکت :: درباره‌ی بیسکت
+Frame 1618873922 > Frame 1073714946 > محصولات :: محصولات
+Frame 1618873922 > Frame 1073714946 > ارتباط با ما :: ارتباط با ما
+Frame 1618873922 > Frame 1073714946 > رسپی ها :: رسپی ها
+STEP.FA > FOOTER > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Frame 1618873928 > Frame 1618873926 > Biskett A kitchen delight :: Biskett A kitchen delight
+Frame 1618873928 > Frame 1618873926 > Did you know that the unique flavor of Biskett pairs well with many recipes? Discover how it can add unexpected flavor to the most beautiful desserts. :: Did you know that the unique flavor of Biskett pairs well with many recipes? Discover how it can add unexpected flavor to the most beautiful desserts.
+Group 1 > Frame 2 > Heart Shaped cake with Biskett :: Heart Shaped cake with Biskett
+Group 1 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 1 > Frame 2 > This delicious heart-shaped cake, full of love and Biskett can brighten your day! :: This delicious heart-shaped cake, full of love and Biskett can brighten your day!
+Group 39 > Frame 2 > Hot Biskett milk :: Hot Biskett \nmilk
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Group 39 > Frame 2 > We all know the classic hot chocolate, but here's a Biskett version: delicious and hearty! :: We all know the classic hot chocolate, but here's a Biskett version: delicious and hearty!
+Group 38 > Frame 2 > Truffles with Biskett :: Truffles with Biskett
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 38 > Frame 2 > With these unique biscuit truffles, Biskett cream is combined with white chocolate for pure delight. :: With these unique biscuit truffles, Biskett cream is combined with white chocolate for pure delight.
+Group 1 > Frame 2 > Biskett bundt cake :: Biskett bundt \ncake
+Group 1 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 1 > Frame 2 > This beautiful bundt cake will get everyone’s attention during the holiday season. :: This beautiful bundt cake will get everyone’s attention during the holiday season.
+Group 39 > Frame 2 > CHOCOLATE AND BISkett MOUSSE :: CHOCOLATE AND BISkett MOUSSE
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Group 39 > Frame 2 > Give a new twist to an old classic and create a completely mouthwatering dessert. :: Give a new twist to an old classic and create a completely mouthwatering dessert.
+Group 38 > Frame 2 > Swiss roll with Biskett :: Swiss roll with Biskett
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 38 > Frame 2 > A traditional swiss roll with a biskett twist: it’s rich, tender and sweet – and it will be the talk of any party! :: A traditional swiss roll with a biskett twist: it’s rich, tender and sweet – and it will be the talk of any party!
+Frame 1618873950 > Frame 1618873948 > last :: last
+Frame 1618873950 > Frame 1618873951 > 1 :: 1
+Frame 1618873950 > Frame 1618873949 > 2 :: 2
+Frame 1618873950 > Frame 1618873950 > 3 :: 3
+Frame 1618873950 > Frame 1618873952 > next :: next
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+Frame 1618873922 > Group 58 > Copyright @ 2025 biskett :: Copyright @ 2025 biskett
+Frame 1618873928 > Frame 1618873926 > Truffles with Biskett :: Truffles with Biskett
+Frame 1618873926 > Frame 1618873945 > 60 minutes prepare in 7 steps :: 60 minutes prepare in 7 steps
+Frame 1618873928 > Frame 1618873926 > Surprise your customers with these unique Biscuit truffles, where Biscoff combines with white chocolate for pure indulgence. :: Surprise your customers with these unique Biscuit truffles, where Biscoff combines with white chocolate for pure indulgence.
+Frame 47 > Frame 1618873933 > Biskett cookies :: Biskett cookies
+Frame 47 > Frame 1618873933 > 32 (220 g) :: 32 (220 g)
+Frame 47 > Frame 1618873934 > cream cheese :: cream cheese
+Frame 47 > Frame 1618873934 > 40 g :: 40 g
+Frame 47 > Frame 1618873935 > Biskett spread :: Biskett spread
+Frame 47 > Frame 1618873935 > 20 g :: 20 g
+Frame 47 > Frame 1618873936 > milk :: milk
+Frame 47 > Frame 1618873936 > 2 tbsp :: 2 tbsp
+Frame 47 > Frame 1618873937 > white chocolate :: white chocolate
+Frame 47 > Frame 1618873937 > 250 g :: 250 g
+Frame 47 > Frame 1618873938 > Topping: :: Topping:
+Frame 47 > Frame 1618873939 > freeze dried raspberries, crumbed :: freeze dried raspberries, crumbed
+Frame 47 > Frame 1618873939 > 4-5 H :: 4-5 H
+Frame 47 > Frame 1618873940 > Biskett spread :: Biskett spread
+Group 48 > Frame 1618873947 > Play recipes video :: Play recipes video
+Container > Container > Discover more recipes :: Discover more recipes
+Group 1 > Frame 2 > Heart Shaped cake with Biskett :: Heart Shaped cake with Biskett
+Group 1 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 1 > Frame 2 > This delicious heart-shaped cake, full of love and Biskett can brighten your day! :: This delicious heart-shaped cake, full of love and Biskett can brighten your day!
+Group 39 > Frame 2 > Hot Biskett milk :: Hot Biskett \nmilk
+Group 39 > Frame 2 > The unique taste of Lotus Biskett now comes in a sandwich. :: The unique taste of Lotus Biskett now comes in a sandwich.
+Group 39 > Frame 2 > We all know the classic hot chocolate, but here's a Biskett version: delicious and hearty! :: We all know the classic hot chocolate, but here's a Biskett version: delicious and hearty!
+Group 38 > Frame 2 > Swiss roll with Biskett :: Swiss roll with Biskett
+Group 38 > Frame 2 > Biskett cookie butter has a unique and surprising taste that brings variety to your table :: Biskett cookie butter has a unique and surprising taste that brings variety to your table
+Group 38 > Frame 2 > A traditional swiss roll with a biskett twist: it’s rich, tender and sweet – and it will be the talk of any party! :: A traditional swiss roll with a biskett twist: it’s rich, tender and sweet – and it will be the talk of any party!
+Frame 1618873922 > Frame 1073714946 > Home :: Home
+Frame 1618873922 > Frame 1073714946 > About us :: About us
+Frame 1618873922 > Frame 1073714946 > products :: products
+Frame 1618873922 > Frame 1073714946 > contact us :: contact us
+Frame 1618873922 > Frame 1073714946 > recipes :: recipes
+Frame 1618873922 > Group 58 > Copyright @ 2025 biskett :: Copyright @ 2025 biskett

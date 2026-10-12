@@ -58,10 +58,11 @@ export function build({ srcDir = 'src', outDir = 'biskett-site', siteUrl = proce
   fs.rmSync(outDir, { recursive: true, force: true });
   for (const p of pages) {
     const twin = byKey.get(`${other(p.lang)}${urlFor(other(p.lang), p.rel)}`);
+    const altHref = twin ? twin.url : urlFor(other(p.lang), 'index.html');
     const html = render(layout, {
       lang: p.lang, dir: LANGS[p.lang].dir, title: p.meta.title ?? '', description: p.meta.description ?? '',
       canonical: p.url, canonicalUrl: siteUrl + p.url, ogImage: siteUrl + (p.meta.ogImage || DEFAULT_OG),
-      prefix: LANGS[p.lang].prefix, altHref: twin ? twin.url : urlFor(other(p.lang), 'index.html'), altLang: other(p.lang),
+      prefix: LANGS[p.lang].prefix, altHref, altUrl: siteUrl + altHref, altLang: other(p.lang),
       t: p.t, content: p.body,
     });
     const dest = path.join(outDir, fileFor(p.url));

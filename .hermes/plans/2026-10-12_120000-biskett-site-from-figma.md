@@ -1,6 +1,6 @@
 # Biskett.com Implementation Plan
 
-Progress: [x] T0  [x] T1  [x] T2  [x] T3  [x] T4  [x] T5  [ ] T6  [ ] T7  [ ] T8  [ ] T9  [ ] T10  [ ] T11
+Progress: [x] T0  [x] T1  [x] T2  [x] T3  [x] T4  [x] T5  [x] T6  [ ] T7  [ ] T8  [ ] T9  [ ] T10  [ ] T11
 
 Goal: Ship biskett.com as a small brand site (Home, About, Contact, Blog; English +
 Persian) built from the Figma export. Contact-form submissions are stored in SQLite
@@ -86,6 +86,21 @@ AND emailed. Deploy it the same way as kixmax.co / torshx.com on the atpg server
   ATPG address). The "Partner with us" nav button points to /#partner on the home page.
 - Products and Recipes pages (designed in Figma) are linked from the nav but not built
   yet: /products/ and /recipes/ currently 404. Decision needed on scope (open Q4).
+
+## T6 findings (2026-10-12)
+
+- FA pages built under /fa/: home, about, contact, 404, blog index + 2 sample posts, using
+  the Persian copy from the Figma HOME.FA / ABOUT US.FA frames. One stylesheet serves both
+  directions (logical CSS); verified in Chrome at 1440 and 390 px: header mirrors, no
+  overflow, Vazirmatn loads.
+- Text I wrote myself (Figma has none; needs a native-speaker review): FA contact page,
+  FA form labels, 404, FA blog posts, FA product-card blurbs (Figma FA frame left those in
+  English), FA country list (translated from the English list; the Figma FA map uses its own
+  country labels), "ارسال" etc.
+- Added CTA buttons from the FA design (story / recipes / products / contact) to both EN and
+  FA home. hreflang now uses absolute URLs (`altUrl`).
+- Orthography test passes (no U+0654).
+- /fa/products/ and /fa/recipes/ still missing along with the EN ones (scope question open).
 
 ## Context (sibling repos)
 

@@ -1,0 +1,24 @@
+---
+title: تماس با ما
+description: با تیم بیسکت در ارتباط باشید؛ سوال، پیشنهاد یا درخواست همکاری.
+---
+<section class="wrap center page-head">
+  <h1>تماس با ما</h1>
+  <p class="lead">ما اینجاییم تا پاسخگوی سوال‌های شما باشیم.</p>
+</section>
+<section class="wrap contact-page">
+  <form class="stack-form" action="/api/forms" method="post">
+    <input type="hidden" name="form" value="contact">
+    <label>نام <input name="name" required autocomplete="name"></label>
+    <label>ایمیل <input name="email" type="email" required autocomplete="email" dir="ltr"></label>
+    <label>تلفن <input name="phone" type="tel" autocomplete="tel" dir="ltr"></label>
+    <label>پیام <textarea name="message" rows="6" required></textarea></label>
+    <input class="hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <button class="btn" type="submit">ارسال</button>
+  </form>
+  <dl class="contact-details">
+    <div><dt>شماره تماس</dt><dd><a href="tel:+982191004664" dir="ltr">(+98) 21 91004664</a></dd></div>
+    <div><dt>آدرس</dt><dd>تهران، سهروردی شمالی، خیابان خرمشهر، خیابان گلشن، کوچه گلزار، پلاک ۳۰</dd></div>
+    <div><dt>آدرس ایمیل</dt><dd><a href="mailto:info@atpg.co" dir="ltr">info@atpg.co</a></dd></div>
+  </dl>
+</section>

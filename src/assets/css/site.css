@@ -99,6 +99,15 @@ main > h1 { width: min(100% - 2rem, 1054px); margin-inline: auto; padding-top: v
 .blog-teaser .post-cards { width: 100%; }
 .btn-outline { background: none; color: var(--red); box-shadow: inset 0 0 0 2px var(--red); }
 .btn-outline:hover { background: var(--red); color: var(--white); }
+.cta-row { display: flex; flex-wrap: wrap; gap: .75rem; }
+.band-red .btn { background: var(--white); color: var(--red); }
+.band-red .btn-outline { background: none; color: var(--white); box-shadow: inset 0 0 0 2px var(--white); }
+.band-red .btn-outline:hover { background: var(--white); color: var(--red); }
+.every-bite .btn, .moment .btn, .export .btn { margin-top: var(--space-1); }
+.more { display: inline-block; color: var(--red); font: 500 1rem var(--font-display); text-decoration: underline; }
+[lang="fa"] body { line-height: 1.9; }
+[lang="fa"] h1, [lang="fa"] h2, [lang="fa"] h3 { line-height: 1.5; }
+[lang="fa"] .footer-nav a { text-transform: none; }
 .notfound { padding-block: var(--space-5); }
 
 /* about */

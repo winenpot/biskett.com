@@ -1,6 +1,6 @@
 # Biskett.com Implementation Plan
 
-Progress: [x] T0  [x] T1  [x] T2  [x] T3  [ ] T4  [ ] T5  [ ] T6  [ ] T7  [ ] T8  [ ] T9  [ ] T10  [ ] T11
+Progress: [x] T0  [x] T1  [x] T2  [x] T3  [x] T4  [ ] T5  [ ] T6  [ ] T7  [ ] T8  [ ] T9  [ ] T10  [ ] T11
 
 Goal: Ship biskett.com as a small brand site (Home, About, Contact, Blog; English +
 Persian) built from the Figma export. Contact-form submissions are stored in SQLite
@@ -51,6 +51,24 @@ AND emailed. Deploy it the same way as kixmax.co / torshx.com on the atpg server
 - Orthography gate (U+0654) is now a test (`tests/orthography.test.mjs`), not a grep.
 - Scripts: `pnpm build | test | check`. 10 tests pass.
 - Page content is a placeholder home page until T4.
+
+## T4 findings (2026-10-12)
+
+- EN home built from the HOME.EN frame (6867 px): banner, "Delight in Every Bite", red
+  "A Crunch You'll Love" band, "Biskett, for Every Moment", export map + country list,
+  4 product cards, partnership form (#partner), contact (phone/address/email), footer.
+  Header = red bar, white logo (CSS filter), nav from the MENU HEADER component.
+- Local preview port is 8184, not 8086 (8086 is taken by another local service). Server.js
+  does not exist until T7, so T4 was previewed with `python3 -m http.server 8184 --directory biskett-site`.
+- Verified in Chrome at 1440 and 390 px: no broken images, no horizontal scroll.
+- Bug found and fixed: lazy-loaded images with `width:auto` have zero size and never load.
+  Keep width/height attributes and don't override with width:auto.
+- Deferred on purpose: home blog teaser (3 cards) -> T5, built from real posts rather than
+  the Figma "Lorem ipsum" text. Map destination dots (white ellipses in the mobile frame)
+  not implemented.
+- Contact details are copied from the Figma: phone (+98) 21 91004664, Tehran address and
+  email info@atpg.co. The email is an ATPG address: confirm it is right for Biskett (T5/T8).
+- Partnership form posts to /api/forms; it does nothing useful until T7 (server) is in.
 
 ## Context (sibling repos)
 
@@ -157,7 +175,7 @@ AND emailed. Deploy it the same way as kixmax.co / torshx.com on the atpg server
 - Sections, as in the desktop frame: hero, "Lotta Love" band, product spotlight, world
   map, product grid, contact teaser, footer.
 - Mobile-first CSS, switching to the desktop layout at the frame width.
-- Verify: `node tools/build.mjs && PORT=8086 node server.js`. Take screenshots at
+- Verify: `node tools/build.mjs && PORT=8184 node server.js`. Take screenshots at
   1440 px and 390 px wide and compare with the thumbnail and frames.
 - Commit.
 
@@ -219,7 +237,7 @@ AND emailed. Deploy it the same way as kixmax.co / torshx.com on the atpg server
 - Commit any deploy fixes.
 
 ### T11: Docs + reusable knowledge
-- README.md and CLAUDE.md: layout, ports (8094 on the server, 8086 locally), build,
+- README.md and CLAUDE.md: layout, ports (8094 on the server, 8184 locally), build,
   mail config, deploy.
 - `docs/vault/` (Home, Decisions).
 - Update Hermes-Vault `Projects/Brands.md` (code path, port 8094) and record the 0.0.0.0

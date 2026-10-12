@@ -1,7 +1,13 @@
 {
   "siteName": "Biskett",
-  "nav_home": "Home", "nav_about": "About us", "nav_products": "Products", "nav_recipes": "Recipes", "nav_contact": "Contact us",
+  "nav_home": "Home",
+  "nav_about": "About Biskett",
+  "nav_products": "Products",
+  "nav_recipes": "Recipes",
+  "nav_contact": "Contact us",
   "blog": "Blog",
   "switch": "فارسی",
-  "footer": "© Biskett. All rights reserved."
+  "footer": "© Biskett. All rights reserved.",
+  "nav_partner": "Partner with us",
+  "menu": "Menu"
 }

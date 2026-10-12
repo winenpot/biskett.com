@@ -1,7 +1,13 @@
 {
   "siteName": "بیسکت",
-  "nav_home": "خانه", "nav_about": "درباره ما", "nav_products": "محصولات", "nav_recipes": "دستور پخت", "nav_contact": "تماس با ما",
+  "nav_home": "خانه",
+  "nav_about": "درباره ما",
+  "nav_products": "محصولات",
+  "nav_recipes": "دستور پخت",
+  "nav_contact": "تماس با ما",
   "blog": "وبلاگ",
   "switch": "English",
-  "footer": "© بیسکت. همه حقوق محفوظ است."
+  "footer": "© بیسکت. همه حقوق محفوظ است.",
+  "nav_partner": "همکاری با ما",
+  "menu": "منو"
 }

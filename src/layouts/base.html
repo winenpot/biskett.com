@@ -12,20 +12,37 @@
 </head>
 <body>
   <header class="site-header">
-    <a class="brand" href="{{prefix}}/">{{t.siteName}}</a>
-    <nav>
-      <a href="{{prefix}}/">{{t.nav_home}}</a>
-      <a href="{{prefix}}/about/">{{t.nav_about}}</a>
-      <a href="{{prefix}}/products/">{{t.nav_products}}</a>
-      <a href="{{prefix}}/recipes/">{{t.nav_recipes}}</a>
-      <a href="{{prefix}}/blog/">{{t.blog}}</a>
-      <a href="{{prefix}}/contact/">{{t.nav_contact}}</a>
-      <a class="lang-switch" href="{{altHref}}" hreflang="{{altLang}}">{{t.switch}}</a>
-    </nav>
+    <div class="wrap">
+      <a class="brand" href="{{prefix}}/"><img src="/assets/img/780afc5320.webp" width="164" height="82" alt="{{t.siteName}}"></a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="{{t.menu}}">
+      <label for="nav-toggle" class="nav-burger" aria-hidden="true"><span></span></label>
+      <nav class="site-nav">
+        <a href="{{prefix}}/">{{t.nav_home}}</a>
+        <a href="{{prefix}}/about/">{{t.nav_about}}</a>
+        <a href="{{prefix}}/products/">{{t.nav_products}}</a>
+        <a href="{{prefix}}/blog/">{{t.blog}}</a>
+        <a href="{{prefix}}/contact/">{{t.nav_contact}}</a>
+        <a href="{{prefix}}/recipes/">{{t.nav_recipes}}</a>
+        <a class="btn btn-light" href="{{prefix}}/#partner">{{t.nav_partner}}</a>
+        <a class="lang-switch" href="{{altHref}}" hreflang="{{altLang}}">{{t.switch}}</a>
+      </nav>
+    </div>
   </header>
   <main>
 {{{content}}}
   </main>
-  <footer class="site-footer"><p>{{t.footer}}</p></footer>
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <nav class="footer-nav">
+        <a href="{{prefix}}/">{{t.nav_home}}</a>
+        <a href="{{prefix}}/about/">{{t.nav_about}}</a>
+        <a href="{{prefix}}/products/">{{t.nav_products}}</a>
+        <a href="{{prefix}}/contact/">{{t.nav_contact}}</a>
+        <a href="{{prefix}}/recipes/">{{t.nav_recipes}}</a>
+      </nav>
+      <img class="footer-logo" src="/assets/img/780afc5320.webp" width="336" height="168" alt="{{t.siteName}}" loading="lazy">
+    </div>
+    <p class="copyright">{{t.footer}}</p>
+  </footer>
 </body>
 </html>

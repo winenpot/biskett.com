@@ -1,6 +1,6 @@
 # Biskett.com Implementation Plan
 
-Progress: [x] T0  [x] T1  [ ] T2  [ ] T3  [ ] T4  [ ] T5  [ ] T6  [ ] T7  [ ] T8  [ ] T9  [ ] T10  [ ] T11
+Progress: [x] T0  [x] T1  [x] T2  [ ] T3  [ ] T4  [ ] T5  [ ] T6  [ ] T7  [ ] T8  [ ] T9  [ ] T10  [ ] T11
 
 Goal: Ship biskett.com as a small brand site (Home, About, Contact, Blog; English +
 Persian) built from the Figma export. Contact-form submissions are stored in SQLite
@@ -30,6 +30,17 @@ AND emailed. Deploy it the same way as kixmax.co / torshx.com on the atpg server
   fallback Vazirmatn). Brand colours: red #dc0b1e, dark #1e1e1e, grey #868686, white.
 - Scope impact: user said "home, about, contact, blog will suffice"; the design also has
   Products, Product details and Recipes. Needs a user decision before T4 (see open Q4).
+
+## T2 findings (2026-10-12)
+
+- Assumed defaults because the user did not answer yet: scope = ALL designed pages
+  (home, about, products, 6 product pages, recipes, + contact/blog sections), Persian
+  font = Vazirmatn. Both are easy to reverse.
+- "Notably Absent" (Figma display font) is personal-use-only (demo licence) and Myriad
+  Pro is Adobe-licensed: NOT self-hosted. Substitutes (OFL, via @fontsource, copied to
+  src/assets/fonts): Fredoka (display), Source Sans 3 (body, Myriad-like), Vazirmatn (FA).
+- Images: single WebP at <=1920 px wide, no JPEG fallback (WebP is universal; YAGNI).
+  132 images, 181 MB -> 12.7 MB. `src/assets/img/manifest.json` maps hash -> size + Figma layer names.
 
 ## Context (sibling repos)
 

@@ -1,0 +1,21 @@
+/* Design tokens extracted from figma/design.json (tools/fig-dump.mjs).
+   Figma frames: desktop 1728 px, mobile 440 px. */
+:root {
+  --red: #dc0b1e;          /* brand red: 198 uses in Figma */
+  --ink: #1e1e1e;          /* dark text / dark bands */
+  --ink-deep: #0b0505;
+  --grey: #868686;
+  --white: #ffffff;
+
+  /* Figma uses Notably Absent (display) and Myriad Pro (body); Notably Absent is
+     personal-use-only and Myriad Pro is Adobe-licensed, so these are open
+     substitutes. Persian in Figma = Kalameh (commercial); Vazirmatn here.
+     To use a licensed font later: add its @font-face and put it first in the stack. */
+  --font-display: "Fredoka", "Vazirmatn", system-ui, sans-serif;
+  --font-body: "Source Sans 3", "Vazirmatn", system-ui, sans-serif;
+
+  --bp-desktop: 1728px;     /* design width */
+  --bp-mobile: 440px;       /* design width */
+  --space-1: .5rem; --space-2: 1rem; --space-3: 1.5rem; --space-4: 2.5rem; --space-5: 5rem;
+  --fs-body: 1.125rem; --fs-h2: 2rem; --fs-h1: clamp(2.5rem, 6vw, 5rem); /* 80px in Figma */
+}

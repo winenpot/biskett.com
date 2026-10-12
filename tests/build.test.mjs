@@ -133,3 +133,11 @@ test('post page shows the cover image', () => {
   const { src, out } = fixture(withCovers); build({ srcDir: src, outDir: out });
   assert.match(fs.readFileSync(path.join(out, 'blog/new/index.html'), 'utf8'), /<article class="post">.*<img src="\/assets\/img\/n\.webp"/s);
 });
+
+test('each language gets its own 404.html and the sitemap skips both', () => {
+  const { src, out } = fixture({ ...files, 'pages/en/404.html': '---\ntitle: EN404\n---\nen', 'pages/fa/404.html': '---\ntitle: FA404\n---\nfa' });
+  build({ srcDir: src, outDir: out, siteUrl: 'https://example.test' });
+  assert.ok(fs.existsSync(path.join(out, '404.html')) && fs.existsSync(path.join(out, 'fa/404.html')));
+  assert.match(fs.readFileSync(path.join(out, 'fa/404.html'), 'utf8'), /FA404/);
+  assert.doesNotMatch(fs.readFileSync(path.join(out, 'sitemap.xml'), 'utf8'), /404/);
+});

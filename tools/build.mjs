@@ -39,7 +39,7 @@ export function build({ srcDir = 'src', outDir = 'biskett-site', siteUrl = proce
 
     for (const rel of walk(path.join(srcDir, 'pages', lang), '.html')) {
       const { meta, body } = parseFrontMatter(read(srcDir, 'pages', lang, rel));
-      pages.push({ lang, t, rel, meta, body: body.replace('<!--latest-posts-->', latest), url: rel === '404.html' ? '/404.html' : urlFor(lang, rel) });
+      pages.push({ lang, t, rel, meta, body: body.replace('<!--latest-posts-->', latest), url: rel === '404.html' ? `${LANGS[lang].prefix}/404.html` : urlFor(lang, rel) });
     }
     for (const p of posts) {
       const date = escapeHtml(p.meta.date || '');
@@ -74,7 +74,7 @@ export function build({ srcDir = 'src', outDir = 'biskett-site', siteUrl = proce
     const from = path.join(srcDir, dir);
     if (fs.existsSync(from)) fs.cpSync(from, dir === 'assets' ? path.join(outDir, 'assets') : outDir, { recursive: true });
   }
-  const listed = pages.filter(p => p.url !== '/404.html');
+  const listed = pages.filter(p => !p.url.endsWith('/404.html'));
   fs.writeFileSync(path.join(outDir, 'sitemap.xml'),
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${listed.map(p => `  <url><loc>${escapeHtml(siteUrl + p.url)}</loc></url>`).join('\n')}\n</urlset>\n`);
   fs.writeFileSync(path.join(outDir, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${siteUrl}/sitemap.xml\n`);

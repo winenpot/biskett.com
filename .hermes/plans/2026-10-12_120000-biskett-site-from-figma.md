@@ -1,6 +1,6 @@
 # Biskett.com Implementation Plan
 
-Progress: [x] T0  [x] T1  [x] T2  [x] T3  [x] T4  [x] T5  [x] T6  [ ] T7  [ ] T8  [ ] T9  [ ] T10  [ ] T11
+Progress: [x] T0  [x] T1  [x] T2  [x] T3  [x] T4  [x] T5  [x] T6  [x] T7  [ ] T8  [ ] T9  [ ] T10  [ ] T11
 
 Goal: Ship biskett.com as a small brand site (Home, About, Contact, Blog; English +
 Persian) built from the Figma export. Contact-form submissions are stored in SQLite
@@ -101,6 +101,26 @@ AND emailed. Deploy it the same way as kixmax.co / torshx.com on the atpg server
   FA home. hreflang now uses absolute URLs (`altUrl`).
 - Orthography test passes (no U+0654).
 - /fa/products/ and /fa/recipes/ still missing along with the EN ones (scope question open).
+
+## T7 findings (2026-10-12)
+
+- `server.js` is a slimmed kixmax server (no Elementor/Turnstile/WP-search/tracking-strip/RTL
+  cookie/byte-range). It exports `createApp()` so tests start it on port 0; the CLI entry
+  only runs when it is the main module. Env prefix `BISKETT_` (SITE_DIR, DATA_DIR,
+  ADMIN_TOKEN, TRUST_PROXY); DB `data/biskett.sqlite`.
+- Deviation from plan: no injected `server-client.js`. The form script is a normal static
+  asset, `src/assets/js/forms.js`, loaded by the layout. Our forms are our own HTML, so
+  injection bought nothing. Forms also work without JS (urlencoded POST -> thank-you page).
+- `lib/forms.mjs` holds required fields per form (contact, partnership) + email check.
+  T8 will let `biskett.config.json` override `required`.
+- Table already has `mailed_at` / `mail_error`; `createApp({ onSubmission })` is the T8
+  hook (fire-and-forget, errors logged, never fails the request).
+- Bug found and fixed: the build wrote both languages' 404 to `/404.html` (FA overwrote EN).
+  Now `/404.html` and `/fa/404.html`; the server serves the one matching the path prefix.
+- Tests: 29 pass (health, 200s, 404 per language, traversal, store, 400s, honeypot, origin,
+  rate limit, no-JS post, token 401, hook failure). Real-browser check: FA contact form
+  stored a row and showed the Persian success message.
+- Not tested: HTML5 validation messages are the browser's own (not localised by us).
 
 ## Context (sibling repos)
 

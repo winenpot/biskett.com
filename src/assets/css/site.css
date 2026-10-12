@@ -156,3 +156,7 @@ main > h1 { width: min(100% - 2rem, 1054px); margin-inline: auto; padding-top: v
   .footer-grid .footer-logo { justify-self: end; }
   .footer-nav { text-align: start; }
 }
+
+.form-status { margin: 0; font-size: 1rem; }
+.form-status.ok { color: #1a7f37; }
+.form-status.error { color: var(--red); }

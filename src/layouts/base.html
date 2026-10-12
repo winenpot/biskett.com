@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="{{lang}}" dir="{{dir}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{title}} · {{t.siteName}}</title>
+  <meta name="description" content="{{description}}">
+  <link rel="alternate" hreflang="{{altLang}}" href="{{altHref}}">
+  <link rel="stylesheet" href="/assets/css/fonts.css">
+  <link rel="stylesheet" href="/assets/css/tokens.css">
+  <link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="{{prefix}}/">{{t.siteName}}</a>
+    <nav>
+      <a href="{{prefix}}/">{{t.nav_home}}</a>
+      <a href="{{prefix}}/about/">{{t.nav_about}}</a>
+      <a href="{{prefix}}/products/">{{t.nav_products}}</a>
+      <a href="{{prefix}}/recipes/">{{t.nav_recipes}}</a>
+      <a href="{{prefix}}/blog/">{{t.blog}}</a>
+      <a href="{{prefix}}/contact/">{{t.nav_contact}}</a>
+      <a class="lang-switch" href="{{altHref}}" hreflang="{{altLang}}">{{t.switch}}</a>
+    </nav>
+  </header>
+  <main>
+{{{content}}}
+  </main>
+  <footer class="site-footer"><p>{{t.footer}}</p></footer>
+</body>
+</html>

@@ -1,6 +1,6 @@
 # Biskett.com Implementation Plan
 
-Progress: [x] T0  [x] T1  [x] T2  [ ] T3  [ ] T4  [ ] T5  [ ] T6  [ ] T7  [ ] T8  [ ] T9  [ ] T10  [ ] T11
+Progress: [x] T0  [x] T1  [x] T2  [x] T3  [ ] T4  [ ] T5  [ ] T6  [ ] T7  [ ] T8  [ ] T9  [ ] T10  [ ] T11
 
 Goal: Ship biskett.com as a small brand site (Home, About, Contact, Blog; English +
 Persian) built from the Figma export. Contact-form submissions are stored in SQLite
@@ -41,6 +41,16 @@ AND emailed. Deploy it the same way as kixmax.co / torshx.com on the atpg server
   src/assets/fonts): Fredoka (display), Source Sans 3 (body, Myriad-like), Vazirmatn (FA).
 - Images: single WebP at <=1920 px wide, no JPEG fallback (WebP is universal; YAGNI).
   132 images, 181 MB -> 12.7 MB. `src/assets/img/manifest.json` maps hash -> size + Figma layer names.
+
+## T3 findings (2026-10-12)
+
+- Build: `tools/build.mjs` + `tools/lib.mjs` (zero deps). Clean URLs (`/about/` ->
+  `about/index.html`), FA under `/fa/`, `src/pages/{en,fa}/404.html` -> `/404.html`.
+  Layout variables: lang, dir, title, description, prefix, altHref, altLang, t.*, {{{content}}}.
+  Missing i18n key fails the build. Language switch links to the same page, else the other home.
+- Orthography gate (U+0654) is now a test (`tests/orthography.test.mjs`), not a grep.
+- Scripts: `pnpm build | test | check`. 10 tests pass.
+- Page content is a placeholder home page until T4.
 
 ## Context (sibling repos)
 

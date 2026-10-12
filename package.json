@@ -12,5 +12,11 @@
     "@fontsource/source-sans-3": "^5.3.1",
     "@fontsource/vazirmatn": "^5.3.0",
     "kiwi-schema": "^0.5.0"
+  },
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "start": "node server.js",
+    "test": "node --test tests/",
+    "check": "node --check tools/lib.mjs && node --check tools/build.mjs && node --check tools/build-images.mjs && node --check tools/fig-dump.mjs"
   }
 }

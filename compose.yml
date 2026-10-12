@@ -1,0 +1,33 @@
+name: biskett-com
+
+services:
+  site:
+    build:
+      context: .
+      dockerfile: Dockerfile.app
+    image: biskett-com:app
+    pull_policy: never
+    restart: unless-stopped
+    init: true   # node must get SIGTERM so SQLite is closed cleanly
+    env_file: .env
+    environment:
+      NODE_ENV: production
+    volumes:
+      - data:/app/data
+      # Mail recipients/SMTP live here; edit and `docker compose restart`, no rebuild.
+      - ./biskett.config.json:/app/biskett.config.json:ro
+    ports:
+      # 0.0.0.0 by decision (2026-10-12), like the other brand sites on atpg; see docs.
+      - "${BISKETT_BIND:-0.0.0.0}:${BISKETT_PORT:-8094}:8080"
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:8080/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      start_period: 10s
+      retries: 3
+    logging:
+      driver: json-file
+      options: { max-size: "10m", max-file: "3" }
+
+volumes:
+  data:

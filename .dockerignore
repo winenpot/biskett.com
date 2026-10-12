@@ -1,0 +1,10 @@
+.git
+node_modules
+figma
+src
+tools
+tests
+data
+graphify-out
+.hermes
+.env
